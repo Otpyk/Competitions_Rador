@@ -111,3 +111,7 @@ python -m unittest discover -s b_tests -q     # B 269 项
 ## License
 
 待定（请作者补充开源协议）。
+
+## AI 使用说明
+
+本项目使用了 AI（DeepSeek 抽取、Bocha 搜索、AI 助手辅助开发），详见 [AI使用说明.md](AI使用说明.md)。
