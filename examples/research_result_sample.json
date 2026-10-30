@@ -1,0 +1,35 @@
+{
+  "task_id": "7f9c2b1a4e6d8f0a",
+  "status": "success",
+  "query": "大学生 人工智能 创新竞赛 官方报名",
+  "report": "# 搜索结果（mock 样例，非真实赛事）\n\n查询：大学生 人工智能 创新竞赛 官方报名\n\n- 赛事名称：全国大学生人工智能创新大赛（样例）\n- 主办方：某高校人工智能学院（样例主办方）\n- 类别：人工智能\n- 参赛资格：在校本科生、研究生\n- 团队规模：1-4 人\n- 报名截止日期：2026-11-30\n- 官方链接：https://example.org/ai-contest\n\n> 说明：本结果为 mock 引擎生成的固定样例，仅用于离线联调与演示，不代表真实赛事信息，请勿据此报名。",
+  "sources": [
+    {
+      "title": "全国大学生人工智能创新大赛 - 官方页面（样例）",
+      "url": "https://example.org/ai-contest",
+      "snippet": "样例来源摘录：用于演示来源可追溯结构。"
+    },
+    {
+      "title": "全国大学生人工智能创新大赛 - 报名通知（样例）",
+      "url": "https://example.org/ai-contest/notice",
+      "snippet": "样例来源摘录：报名截止日期与参赛资格见官方通知。"
+    }
+  ],
+  "elapsed_seconds": 0.012,
+  "error": null,
+  "engine": "mock",
+  "round": 1,
+  "logs": [
+    {
+      "event": "research_started",
+      "engine": "mock",
+      "round": 1,
+      "report_type": "research_report"
+    },
+    {
+      "event": "research_completed",
+      "elapsed_seconds": 0.012,
+      "source_count": 2
+    }
+  ]
+}

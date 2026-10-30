@@ -1,0 +1,181 @@
+{
+  "version": "B-approved-20261028",
+  "approved_sources": [
+    {
+      "competition_id": "curated-hlju-mcm-2026-campus",
+      "edition": "2026",
+      "scope": "campus:黑龙江大学",
+      "url": "https://math.hlju.edu.cn/info/1009/2406.htm",
+      "source_type": "school",
+      "approved_by": "B:controlled-web-review:2026-10-28"
+    },
+    {
+      "competition_id": "curated-hlju-mcm-2026-campus",
+      "edition": "2026",
+      "scope": "global",
+      "url": "https://math.hlju.edu.cn/info/1009/2406.htm",
+      "source_type": "school",
+      "approved_by": "B:controlled-web-review:2026-10-28"
+    },
+    {
+      "competition_id": "real-mcm-hlju-2026-0831-rec",
+      "edition": "2026",
+      "scope": "global",
+      "url": "https://math.hlju.edu.cn/info/1009/2406.htm",
+      "source_type": "school",
+      "approved_by": "B:controlled-web-review:2026-10-28"
+    },
+    {
+      "competition_id": "real-mcm-hlju-2026-0831-rec",
+      "edition": "2026",
+      "scope": "campus:黑龙江大学",
+      "url": "https://math.hlju.edu.cn/info/1009/2406.htm",
+      "source_type": "school",
+      "approved_by": "B:controlled-web-review:2026-10-28"
+    },
+    {
+      "competition_id": "dlut-icnc-2026-campus-registration",
+      "edition": "2026",
+      "scope": "campus:大连理工大学",
+      "url": "https://chuangxin.dlut.edu.cn/info/1018/16747.htm",
+      "source_type": "school",
+      "approved_by": "B:controlled-web-review:2026-10-28"
+    },
+    {
+      "competition_id": "dlut-icnc-2026-campus-registration",
+      "edition": "2026",
+      "scope": "global",
+      "url": "https://chuangxin.dlut.edu.cn/info/1018/16747.htm",
+      "source_type": "school",
+      "approved_by": "B:controlled-web-review:2026-10-28"
+    },
+    {
+      "competition_id": "real-icnc-dlut-2026-0827-rec",
+      "edition": "2026",
+      "scope": "global",
+      "url": "https://chuangxin.dlut.edu.cn/info/1018/16747.htm",
+      "source_type": "school",
+      "approved_by": "B:controlled-web-review:2026-10-28"
+    },
+    {
+      "competition_id": "real-icnc-dlut-2026-0827-rec",
+      "edition": "2026",
+      "scope": "campus:大连理工大学",
+      "url": "https://chuangxin.dlut.edu.cn/info/1018/16747.htm",
+      "source_type": "school",
+      "approved_by": "B:controlled-web-review:2026-10-28"
+    },
+    {
+      "competition_id": "curated-nufe-mcm-2026-campus",
+      "edition": "2026",
+      "scope": "campus:南京财经大学",
+      "url": "https://jwc.nufe.edu.cn/info/1031/18284.htm",
+      "source_type": "school",
+      "approved_by": "B:controlled-web-review:2026-10-28"
+    },
+    {
+      "competition_id": "curated-nufe-mcm-2026-campus",
+      "edition": "2026",
+      "scope": "global",
+      "url": "https://jwc.nufe.edu.cn/info/1031/18284.htm",
+      "source_type": "school",
+      "approved_by": "B:controlled-web-review:2026-10-28"
+    },
+    {
+      "competition_id": "real-mcm-nufe-2026-0707-rec",
+      "edition": "2026",
+      "scope": "global",
+      "url": "https://jwc.nufe.edu.cn/info/1031/18284.htm",
+      "source_type": "school",
+      "approved_by": "B:controlled-web-review:2026-10-28"
+    },
+    {
+      "competition_id": "real-mcm-nufe-2026-0707-rec",
+      "edition": "2026",
+      "scope": "campus:南京财经大学",
+      "url": "https://jwc.nufe.edu.cn/info/1031/18284.htm",
+      "source_type": "school",
+      "approved_by": "B:controlled-web-review:2026-10-28"
+    },
+    {
+      "competition_id": "curated-zqu-lanqiao-18-college-selection",
+      "edition": "第十八届",
+      "scope": "campus:肇庆学院",
+      "url": "https://eee.zqu.edu.cn/info/1186/43132.htm",
+      "source_type": "school",
+      "approved_by": "B:controlled-web-review:2026-10-28"
+    },
+    {
+      "competition_id": "curated-zqu-lanqiao-18-college-selection",
+      "edition": "第十八届",
+      "scope": "global",
+      "url": "https://eee.zqu.edu.cn/info/1186/43132.htm",
+      "source_type": "school",
+      "approved_by": "B:controlled-web-review:2026-10-28"
+    },
+    {
+      "competition_id": "real-lanqiao-zqu-2026-1013-rec",
+      "edition": "第十八届",
+      "scope": "global",
+      "url": "https://eee.zqu.edu.cn/info/1186/43132.htm",
+      "source_type": "school",
+      "approved_by": "B:controlled-web-review:2026-10-28"
+    },
+    {
+      "competition_id": "real-lanqiao-zqu-2026-1013-rec",
+      "edition": "第十八届",
+      "scope": "campus:肇庆学院",
+      "url": "https://eee.zqu.edu.cn/info/1186/43132.htm",
+      "source_type": "school",
+      "approved_by": "B:controlled-web-review:2026-10-28"
+    },
+    {
+      "competition_id": "curated-scu-icnc-2026-industry-enterprise",
+      "edition": "2026",
+      "scope": "campus:四川大学",
+      "url": "https://jwc.scu.edu.cn/info/1069/10764.htm",
+      "source_type": "school",
+      "approved_by": "B:controlled-web-review:2026-10-28"
+    },
+    {
+      "competition_id": "curated-scu-icnc-2026-industry-enterprise",
+      "edition": "2026",
+      "scope": "global",
+      "url": "https://jwc.scu.edu.cn/info/1069/10764.htm",
+      "source_type": "school",
+      "approved_by": "B:controlled-web-review:2026-10-28"
+    },
+    {
+      "competition_id": "real-icnc-scu-2026-0828-rec",
+      "edition": "2026",
+      "scope": "global",
+      "url": "https://jwc.scu.edu.cn/info/1069/10764.htm",
+      "source_type": "school",
+      "approved_by": "B:controlled-web-review:2026-10-28"
+    },
+    {
+      "competition_id": "real-icnc-scu-2026-0828-rec",
+      "edition": "2026",
+      "scope": "campus:四川大学",
+      "url": "https://jwc.scu.edu.cn/info/1069/10764.htm",
+      "source_type": "school",
+      "approved_by": "B:controlled-web-review:2026-10-28"
+    },
+    {
+      "competition_id": "curated-scu-icnc-2026-industry-commercialization",
+      "edition": "2026",
+      "scope": "campus:四川大学",
+      "url": "https://jwc.scu.edu.cn/info/1069/10764.htm",
+      "source_type": "school",
+      "approved_by": "B:controlled-web-review:2026-10-28"
+    },
+    {
+      "competition_id": "curated-scu-icnc-2026-industry-commercialization",
+      "edition": "2026",
+      "scope": "global",
+      "url": "https://jwc.scu.edu.cn/info/1069/10764.htm",
+      "source_type": "school",
+      "approved_by": "B:controlled-web-review:2026-10-28"
+    }
+  ]
+}

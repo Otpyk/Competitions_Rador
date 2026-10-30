@@ -1,0 +1,193 @@
+{
+  "real-mcm-hlju-2026-0831-rec": {
+    "scope": "campus:黑龙江大学",
+    "field_scopes": {
+      "competition_name": "global",
+      "competition_edition": "global",
+      "registration_deadline": "global",
+      "organizer": "global"
+    },
+    "context_holds": {
+      "registration_start": "旧11字段没有阶段/校内截止的独立位置；需C明确正式报名阶段及范围后再补查。",
+      "registration_deadline": "旧抽取器可能将校内或培训日期挂在赛事正式截止；需C修复阶段归属。"
+    },
+    "school": "黑龙江大学",
+    "source_id": "real-mcm-hlju-2026-0831",
+    "expected_edition": "2026",
+    "expected_name": "全国大学生数学建模竞赛"
+  },
+  "real-icnc-dlut-2026-0827-rec": {
+    "scope": "campus:大连理工大学",
+    "field_scopes": {
+      "competition_name": "global",
+      "competition_edition": "global",
+      "registration_deadline": "global",
+      "organizer": "global"
+    },
+    "context_holds": {
+      "registration_start": "旧11字段没有阶段/校内截止的独立位置；需C明确正式报名阶段及范围后再补查。",
+      "registration_deadline": "旧抽取器可能将校内或培训日期挂在赛事正式截止；需C修复阶段归属。"
+    },
+    "school": "大连理工大学",
+    "source_id": "real-icnc-dlut-2026-0827",
+    "expected_edition": "2026",
+    "expected_name": "中国国际大学生创新大赛"
+  },
+  "real-mcm-nufe-2026-0707-rec": {
+    "scope": "campus:南京财经大学",
+    "field_scopes": {
+      "competition_name": "global",
+      "competition_edition": "global",
+      "registration_deadline": "global",
+      "organizer": "global"
+    },
+    "context_holds": {
+      "registration_start": "旧11字段没有阶段/校内截止的独立位置；需C明确正式报名阶段及范围后再补查。",
+      "registration_deadline": "旧抽取器可能将校内或培训日期挂在赛事正式截止；需C修复阶段归属。"
+    },
+    "school": "南京财经大学",
+    "source_id": "real-mcm-nufe-2026-0707",
+    "expected_edition": "2026",
+    "expected_name": "全国大学生数学建模竞赛"
+  },
+  "real-lanqiao-zqu-2026-1013-rec": {
+    "scope": "campus:肇庆学院",
+    "field_scopes": {
+      "competition_name": "global",
+      "competition_edition": "global",
+      "registration_deadline": "global",
+      "organizer": "global"
+    },
+    "context_holds": {
+      "registration_start": "旧11字段没有阶段/校内截止的独立位置；需C明确正式报名阶段及范围后再补查。",
+      "registration_deadline": "旧抽取器可能将校内或培训日期挂在赛事正式截止；需C修复阶段归属。"
+    },
+    "school": "肇庆学院",
+    "source_id": "real-lanqiao-zqu-2026-1013",
+    "expected_edition": "第十八届",
+    "expected_name": "蓝桥杯全国大学生软件和信息技术大赛"
+  },
+  "real-icnc-scu-2026-0828-rec": {
+    "scope": "campus:四川大学",
+    "field_scopes": {
+      "competition_name": "global",
+      "competition_edition": "global",
+      "registration_deadline": "global",
+      "organizer": "global"
+    },
+    "context_holds": {
+      "registration_start": "旧11字段没有阶段/校内截止的独立位置；需C明确正式报名阶段及范围后再补查。",
+      "registration_deadline": "旧抽取器可能将校内或培训日期挂在赛事正式截止；需C修复阶段归属。"
+    },
+    "school": "四川大学",
+    "source_id": "real-icnc-scu-2026-0828",
+    "expected_edition": "2026",
+    "expected_name": "中国国际大学生创新大赛"
+  },
+  "curated-hlju-mcm-2026-campus": {
+    "scope": "campus:黑龙江大学",
+    "field_scopes": {
+      "competition_name": "global",
+      "competition_edition": "global",
+      "schedule": "global",
+      "registration_deadline": "global",
+      "organizer": "global"
+    },
+    "expected_name": "全国大学生数学建模竞赛",
+    "expected_edition": "2026"
+  },
+  "dlut-icnc-2026-campus-registration": {
+    "scope": "global",
+    "field_scopes": {
+      "track": "campus:大连理工大学",
+      "organizer": "campus:大连理工大学",
+      "official_url": "campus:大连理工大学",
+      "eligibility": "campus:大连理工大学",
+      "participation_mode": "campus:大连理工大学",
+      "team_rules": "campus:大连理工大学",
+      "registration_start": "campus:大连理工大学",
+      "campus_deadline": "campus:大连理工大学",
+      "registration_method": "campus:大连理工大学",
+      "registration_url": "campus:大连理工大学",
+      "registration_materials": "campus:大连理工大学",
+      "institutional_requirements": "campus:大连理工大学",
+      "awards": "campus:大连理工大学",
+      "school_recognition": "campus:大连理工大学",
+      "work_rules": "campus:大连理工大学",
+      "preparation_resources": "campus:大连理工大学",
+      "contacts": "campus:大连理工大学"
+    },
+    "expected_name": "中国国际大学生创新大赛（2026）",
+    "expected_edition": "2026"
+  },
+  "curated-nufe-mcm-2026-campus": {
+    "scope": "campus:南京财经大学",
+    "field_scopes": {
+      "competition_name": "global",
+      "competition_edition": "global",
+      "organizer": "global",
+      "deliverables": "global",
+      "submission_deadline": "global",
+      "attendance_mode": "global",
+      "schedule": "global",
+      "awards": "global",
+      "work_rules": "global",
+      "registration_deadline": "global"
+    },
+    "expected_name": "全国大学生数学建模竞赛",
+    "expected_edition": "2026"
+  },
+  "curated-zqu-lanqiao-18-college-selection": {
+    "scope": "campus:肇庆学院",
+    "field_scopes": {
+      "competition_name": "global",
+      "competition_edition": "global",
+      "official_url": "global",
+      "registration_deadline": "global"
+    },
+    "expected_name": "蓝桥杯全国大学生软件和信息技术大赛",
+    "expected_edition": "第十八届"
+  },
+  "curated-scu-icnc-2026-industry-enterprise": {
+    "scope": "global",
+    "field_scopes": {
+      "official_url": "campus:四川大学",
+      "eligibility": "campus:四川大学",
+      "team_rules": "campus:四川大学",
+      "campus_deadline": "campus:四川大学",
+      "registration_method": "campus:四川大学",
+      "registration_materials": "campus:四川大学",
+      "institutional_requirements": "campus:四川大学",
+      "attendance_mode": "campus:四川大学",
+      "schedule": "campus:四川大学",
+      "judging_criteria": "campus:四川大学",
+      "awards": "campus:四川大学",
+      "school_recognition": "campus:四川大学",
+      "work_rules": "campus:四川大学",
+      "contacts": "campus:四川大学"
+    },
+    "expected_name": "中国国际大学生创新大赛（2026）",
+    "expected_edition": "2026"
+  },
+  "curated-scu-icnc-2026-industry-commercialization": {
+    "scope": "global",
+    "field_scopes": {
+      "official_url": "campus:四川大学",
+      "eligibility": "campus:四川大学",
+      "team_rules": "campus:四川大学",
+      "campus_deadline": "campus:四川大学",
+      "registration_method": "campus:四川大学",
+      "registration_materials": "campus:四川大学",
+      "institutional_requirements": "campus:四川大学",
+      "attendance_mode": "campus:四川大学",
+      "schedule": "campus:四川大学",
+      "judging_criteria": "campus:四川大学",
+      "awards": "campus:四川大学",
+      "school_recognition": "campus:四川大学",
+      "work_rules": "campus:四川大学",
+      "contacts": "campus:四川大学"
+    },
+    "expected_name": "中国国际大学生创新大赛（2026）",
+    "expected_edition": "2026"
+  }
+}

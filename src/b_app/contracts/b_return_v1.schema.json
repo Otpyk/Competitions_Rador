@@ -1,0 +1,1013 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:competition-radar:b-c-return-v1",
+  "title": "Competition Radar B to C return v1",
+  "description": "All five top-level keys are required. This schema defines structure; the reference receiver additionally verifies candidate links and summary consistency. A valid return does not authenticate its webpages.",
+  "$defs": {
+    "FieldDecision": {
+      "type": "object",
+      "properties": {
+        "field": {
+          "type": "string",
+          "enum": [
+            "competition_name",
+            "competition_edition",
+            "track",
+            "organizer",
+            "official_url",
+            "eligibility",
+            "participation_mode",
+            "team_rules",
+            "registration_start",
+            "registration_deadline",
+            "campus_deadline",
+            "task_description",
+            "deliverables",
+            "submission_deadline",
+            "attendance_mode",
+            "venue",
+            "registration_fee",
+            "mandatory_fees",
+            "registration_method",
+            "registration_url",
+            "registration_materials",
+            "institutional_requirements",
+            "schedule",
+            "judging_criteria",
+            "awards",
+            "school_recognition",
+            "technical_requirements",
+            "work_rules",
+            "preparation_resources",
+            "expense_details",
+            "contacts"
+          ]
+        },
+        "status": {
+          "type": "string",
+          "enum": [
+            "verified",
+            "pending",
+            "conflict"
+          ]
+        },
+        "original_value": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "verified_value": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "reasons": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "evidence_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true
+        },
+        "conflicting_values": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "uniqueItems": true
+        },
+        "rejected_evidence": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            },
+            "minItems": 1
+          },
+          "propertyNames": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": {
+          "type": "boolean"
+        },
+        "requirement_reasons": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "value_kind": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "value",
+                "not_applicable"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "confirmed_statement": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "scope": {
+          "type": "string",
+          "minLength": 1
+        },
+        "next_action": {
+          "type": "string",
+          "enum": [
+            "search",
+            "fetch_source",
+            "repair_extraction",
+            "human_review",
+            "clarify_context",
+            "none"
+          ]
+        },
+        "action_reason": {
+          "type": "string"
+        },
+        "source_urls": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true
+        }
+      },
+      "required": [
+        "field",
+        "status",
+        "original_value",
+        "verified_value",
+        "reasons",
+        "evidence_ids",
+        "conflicting_values",
+        "rejected_evidence",
+        "required",
+        "requirement_reasons",
+        "value_kind",
+        "confirmed_statement",
+        "scope",
+        "next_action",
+        "action_reason",
+        "source_urls"
+      ],
+      "additionalProperties": false
+    },
+    "ActionItem": {
+      "type": "object",
+      "properties": {
+        "field": {
+          "type": "string",
+          "enum": [
+            "competition_name",
+            "competition_edition",
+            "track",
+            "organizer",
+            "official_url",
+            "eligibility",
+            "participation_mode",
+            "team_rules",
+            "registration_start",
+            "registration_deadline",
+            "campus_deadline",
+            "task_description",
+            "deliverables",
+            "submission_deadline",
+            "attendance_mode",
+            "venue",
+            "registration_fee",
+            "mandatory_fees",
+            "registration_method",
+            "registration_url",
+            "registration_materials",
+            "institutional_requirements",
+            "schedule",
+            "judging_criteria",
+            "awards",
+            "school_recognition",
+            "technical_requirements",
+            "work_rules",
+            "preparation_resources",
+            "expense_details",
+            "contacts"
+          ]
+        },
+        "label": {
+          "type": "string"
+        },
+        "action": {
+          "type": "string",
+          "enum": [
+            "search",
+            "fetch_source",
+            "repair_extraction",
+            "human_review",
+            "clarify_context",
+            "none"
+          ]
+        },
+        "action_label": {
+          "type": "string"
+        },
+        "owner": {
+          "type": "string",
+          "enum": [
+            "A",
+            "B",
+            "C",
+            "A/C"
+          ]
+        },
+        "reason": {
+          "type": "string"
+        },
+        "scope": {
+          "type": "string",
+          "minLength": 1
+        },
+        "evidence_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true
+        },
+        "source_urls": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true
+        },
+        "candidate_evidence_refs": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true
+        }
+      },
+      "required": [
+        "field",
+        "label",
+        "action",
+        "action_label",
+        "owner",
+        "reason",
+        "scope",
+        "evidence_ids",
+        "source_urls",
+        "candidate_evidence_refs"
+      ],
+      "additionalProperties": false
+    },
+    "ConsistencyIssue": {
+      "type": "object",
+      "properties": {
+        "code": {
+          "type": "string",
+          "enum": [
+            "registration_start_after_deadline",
+            "individual_only_vs_team_participation",
+            "online_only_vs_required_onsite"
+          ]
+        },
+        "fields": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "competition_name",
+              "competition_edition",
+              "track",
+              "organizer",
+              "official_url",
+              "eligibility",
+              "participation_mode",
+              "team_rules",
+              "registration_start",
+              "registration_deadline",
+              "campus_deadline",
+              "task_description",
+              "deliverables",
+              "submission_deadline",
+              "attendance_mode",
+              "venue",
+              "registration_fee",
+              "mandatory_fees",
+              "registration_method",
+              "registration_url",
+              "registration_materials",
+              "institutional_requirements",
+              "schedule",
+              "judging_criteria",
+              "awards",
+              "school_recognition",
+              "technical_requirements",
+              "work_rules",
+              "preparation_resources",
+              "expense_details",
+              "contacts"
+            ]
+          },
+          "uniqueItems": true,
+          "minItems": 2
+        },
+        "message": {
+          "type": "string",
+          "minLength": 1
+        },
+        "evidence_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true,
+          "minItems": 2
+        },
+        "values": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "string",
+            "minLength": 1
+          },
+          "propertyNames": {
+            "type": "string",
+            "enum": [
+              "competition_name",
+              "competition_edition",
+              "track",
+              "organizer",
+              "official_url",
+              "eligibility",
+              "participation_mode",
+              "team_rules",
+              "registration_start",
+              "registration_deadline",
+              "campus_deadline",
+              "task_description",
+              "deliverables",
+              "submission_deadline",
+              "attendance_mode",
+              "venue",
+              "registration_fee",
+              "mandatory_fees",
+              "registration_method",
+              "registration_url",
+              "registration_materials",
+              "institutional_requirements",
+              "schedule",
+              "judging_criteria",
+              "awards",
+              "school_recognition",
+              "technical_requirements",
+              "work_rules",
+              "preparation_resources",
+              "expense_details",
+              "contacts"
+            ]
+          }
+        }
+      },
+      "required": [
+        "code",
+        "fields",
+        "message",
+        "evidence_ids",
+        "values"
+      ],
+      "additionalProperties": false
+    },
+    "Verification": {
+      "type": "object",
+      "properties": {
+        "competition_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "status": {
+          "type": "string",
+          "enum": [
+            "verified",
+            "pending",
+            "conflict"
+          ]
+        },
+        "fields": {
+          "type": "object",
+          "additionalProperties": {
+            "$ref": "#/$defs/FieldDecision"
+          },
+          "propertyNames": {
+            "type": "string",
+            "enum": [
+              "competition_name",
+              "competition_edition",
+              "track",
+              "organizer",
+              "official_url",
+              "eligibility",
+              "participation_mode",
+              "team_rules",
+              "registration_start",
+              "registration_deadline",
+              "campus_deadline",
+              "task_description",
+              "deliverables",
+              "submission_deadline",
+              "attendance_mode",
+              "venue",
+              "registration_fee",
+              "mandatory_fees",
+              "registration_method",
+              "registration_url",
+              "registration_materials",
+              "institutional_requirements",
+              "schedule",
+              "judging_criteria",
+              "awards",
+              "school_recognition",
+              "technical_requirements",
+              "work_rules",
+              "preparation_resources",
+              "expense_details",
+              "contacts"
+            ]
+          }
+        },
+        "missing_fields": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "competition_name",
+              "competition_edition",
+              "track",
+              "organizer",
+              "official_url",
+              "eligibility",
+              "participation_mode",
+              "team_rules",
+              "registration_start",
+              "registration_deadline",
+              "campus_deadline",
+              "task_description",
+              "deliverables",
+              "submission_deadline",
+              "attendance_mode",
+              "venue",
+              "registration_fee",
+              "mandatory_fees",
+              "registration_method",
+              "registration_url",
+              "registration_materials",
+              "institutional_requirements",
+              "schedule",
+              "judging_criteria",
+              "awards",
+              "school_recognition",
+              "technical_requirements",
+              "work_rules",
+              "preparation_resources",
+              "expense_details",
+              "contacts"
+            ]
+          },
+          "uniqueItems": true
+        },
+        "unresolved_fields": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "competition_name",
+              "competition_edition",
+              "track",
+              "organizer",
+              "official_url",
+              "eligibility",
+              "participation_mode",
+              "team_rules",
+              "registration_start",
+              "registration_deadline",
+              "campus_deadline",
+              "task_description",
+              "deliverables",
+              "submission_deadline",
+              "attendance_mode",
+              "venue",
+              "registration_fee",
+              "mandatory_fees",
+              "registration_method",
+              "registration_url",
+              "registration_materials",
+              "institutional_requirements",
+              "schedule",
+              "judging_criteria",
+              "awards",
+              "school_recognition",
+              "technical_requirements",
+              "work_rules",
+              "preparation_resources",
+              "expense_details",
+              "contacts"
+            ]
+          },
+          "uniqueItems": true
+        },
+        "coverage": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "required_fields": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "competition_name",
+              "competition_edition",
+              "track",
+              "organizer",
+              "official_url",
+              "eligibility",
+              "participation_mode",
+              "team_rules",
+              "registration_start",
+              "registration_deadline",
+              "campus_deadline",
+              "task_description",
+              "deliverables",
+              "submission_deadline",
+              "attendance_mode",
+              "venue",
+              "registration_fee",
+              "mandatory_fees",
+              "registration_method",
+              "registration_url",
+              "registration_materials",
+              "institutional_requirements",
+              "schedule",
+              "judging_criteria",
+              "awards",
+              "school_recognition",
+              "technical_requirements",
+              "work_rules",
+              "preparation_resources",
+              "expense_details",
+              "contacts"
+            ]
+          },
+          "uniqueItems": true,
+          "minItems": 1
+        },
+        "promoted_fields": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "competition_name",
+              "competition_edition",
+              "track",
+              "organizer",
+              "official_url",
+              "eligibility",
+              "participation_mode",
+              "team_rules",
+              "registration_start",
+              "registration_deadline",
+              "campus_deadline",
+              "task_description",
+              "deliverables",
+              "submission_deadline",
+              "attendance_mode",
+              "venue",
+              "registration_fee",
+              "mandatory_fees",
+              "registration_method",
+              "registration_url",
+              "registration_materials",
+              "institutional_requirements",
+              "schedule",
+              "judging_criteria",
+              "awards",
+              "school_recognition",
+              "technical_requirements",
+              "work_rules",
+              "preparation_resources",
+              "expense_details",
+              "contacts"
+            ]
+          },
+          "uniqueItems": true
+        },
+        "optional_unresolved_fields": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "competition_name",
+              "competition_edition",
+              "track",
+              "organizer",
+              "official_url",
+              "eligibility",
+              "participation_mode",
+              "team_rules",
+              "registration_start",
+              "registration_deadline",
+              "campus_deadline",
+              "task_description",
+              "deliverables",
+              "submission_deadline",
+              "attendance_mode",
+              "venue",
+              "registration_fee",
+              "mandatory_fees",
+              "registration_method",
+              "registration_url",
+              "registration_materials",
+              "institutional_requirements",
+              "schedule",
+              "judging_criteria",
+              "awards",
+              "school_recognition",
+              "technical_requirements",
+              "work_rules",
+              "preparation_resources",
+              "expense_details",
+              "contacts"
+            ]
+          },
+          "uniqueItems": true
+        },
+        "optional_conflict_fields": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "competition_name",
+              "competition_edition",
+              "track",
+              "organizer",
+              "official_url",
+              "eligibility",
+              "participation_mode",
+              "team_rules",
+              "registration_start",
+              "registration_deadline",
+              "campus_deadline",
+              "task_description",
+              "deliverables",
+              "submission_deadline",
+              "attendance_mode",
+              "venue",
+              "registration_fee",
+              "mandatory_fees",
+              "registration_method",
+              "registration_url",
+              "registration_materials",
+              "institutional_requirements",
+              "schedule",
+              "judging_criteria",
+              "awards",
+              "school_recognition",
+              "technical_requirements",
+              "work_rules",
+              "preparation_resources",
+              "expense_details",
+              "contacts"
+            ]
+          },
+          "uniqueItems": true
+        },
+        "unrecognized_fields": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true
+        },
+        "verified_at": {
+          "type": "string",
+          "minLength": 1
+        },
+        "consistency_issues": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/ConsistencyIssue"
+          }
+        },
+        "verified_fields": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "string",
+            "minLength": 1
+          },
+          "propertyNames": {
+            "type": "string",
+            "enum": [
+              "competition_name",
+              "competition_edition",
+              "track",
+              "organizer",
+              "official_url",
+              "eligibility",
+              "participation_mode",
+              "team_rules",
+              "registration_start",
+              "registration_deadline",
+              "campus_deadline",
+              "task_description",
+              "deliverables",
+              "submission_deadline",
+              "attendance_mode",
+              "venue",
+              "registration_fee",
+              "mandatory_fees",
+              "registration_method",
+              "registration_url",
+              "registration_materials",
+              "institutional_requirements",
+              "schedule",
+              "judging_criteria",
+              "awards",
+              "school_recognition",
+              "technical_requirements",
+              "work_rules",
+              "preparation_resources",
+              "expense_details",
+              "contacts"
+            ]
+          }
+        },
+        "not_applicable_fields": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "string",
+            "minLength": 1
+          },
+          "propertyNames": {
+            "type": "string",
+            "enum": [
+              "competition_name",
+              "competition_edition",
+              "track",
+              "organizer",
+              "official_url",
+              "eligibility",
+              "participation_mode",
+              "team_rules",
+              "registration_start",
+              "registration_deadline",
+              "campus_deadline",
+              "task_description",
+              "deliverables",
+              "submission_deadline",
+              "attendance_mode",
+              "venue",
+              "registration_fee",
+              "mandatory_fees",
+              "registration_method",
+              "registration_url",
+              "registration_materials",
+              "institutional_requirements",
+              "schedule",
+              "judging_criteria",
+              "awards",
+              "school_recognition",
+              "technical_requirements",
+              "work_rules",
+              "preparation_resources",
+              "expense_details",
+              "contacts"
+            ]
+          }
+        },
+        "status_scope": {
+          "type": "string",
+          "const": "required_fields_only"
+        },
+        "action_items": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/ActionItem"
+          }
+        }
+      },
+      "required": [
+        "competition_id",
+        "status",
+        "fields",
+        "missing_fields",
+        "unresolved_fields",
+        "coverage",
+        "required_fields",
+        "promoted_fields",
+        "optional_unresolved_fields",
+        "optional_conflict_fields",
+        "unrecognized_fields",
+        "verified_at",
+        "consistency_issues",
+        "verified_fields",
+        "not_applicable_fields",
+        "status_scope",
+        "action_items"
+      ],
+      "additionalProperties": false
+    },
+    "SearchRequest": {
+      "type": "object",
+      "properties": {
+        "action": {
+          "type": "string",
+          "const": "search"
+        },
+        "competition_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "contest_name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "edition": {
+          "type": "string"
+        },
+        "target_fields": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "competition_name",
+              "competition_edition",
+              "track",
+              "organizer",
+              "official_url",
+              "eligibility",
+              "participation_mode",
+              "team_rules",
+              "registration_start",
+              "registration_deadline",
+              "campus_deadline",
+              "task_description",
+              "deliverables",
+              "submission_deadline",
+              "attendance_mode",
+              "venue",
+              "registration_fee",
+              "mandatory_fees",
+              "registration_method",
+              "registration_url",
+              "registration_materials",
+              "institutional_requirements",
+              "schedule",
+              "judging_criteria",
+              "awards",
+              "school_recognition",
+              "technical_requirements",
+              "work_rules",
+              "preparation_resources",
+              "expense_details",
+              "contacts"
+            ]
+          },
+          "uniqueItems": true,
+          "minItems": 1
+        },
+        "scope": {
+          "type": "string",
+          "minLength": 1
+        },
+        "query": {
+          "type": "string",
+          "minLength": 1
+        },
+        "reason": {
+          "type": "string"
+        },
+        "round": {
+          "type": "integer",
+          "minimum": 1
+        }
+      },
+      "required": [
+        "action",
+        "competition_id",
+        "contest_name",
+        "edition",
+        "target_fields",
+        "scope",
+        "query",
+        "reason",
+        "round"
+      ],
+      "additionalProperties": false
+    },
+    "SourceReview": {
+      "type": "object",
+      "properties": {
+        "evidence_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "source_verified": {
+          "type": "boolean"
+        },
+        "support": {
+          "type": "string",
+          "enum": [
+            "supported",
+            "unsupported",
+            "unknown"
+          ]
+        },
+        "reasons": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "evidence_id",
+        "source_verified",
+        "support",
+        "reasons"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "type": "object",
+  "properties": {
+    "data_kind": {
+      "type": "string",
+      "minLength": 1
+    },
+    "notice": {
+      "type": "string"
+    },
+    "verification": {
+      "$ref": "#/$defs/Verification"
+    },
+    "requests": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/SearchRequest"
+      }
+    },
+    "source_reviews": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/SourceReview"
+      }
+    }
+  },
+  "required": [
+    "data_kind",
+    "notice",
+    "verification",
+    "requests",
+    "source_reviews"
+  ],
+  "additionalProperties": false
+}

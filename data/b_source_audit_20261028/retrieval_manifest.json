@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://math.hlju.edu.cn/info/1009/2406.htm",
+    "source_id": "real-mcm-hlju-2026-0831",
+    "http_status": 200,
+    "final_url": "https://math.hlju.edu.cn/info/1009/2406.htm",
+    "retrieved_at": "2026-10-28T06:50:55.965331+00:00",
+    "sha256": "79e354d713df466cc308a93484cb473fae6d15a6cb5267a61fe3e22413089859",
+    "raw_file": "real-mcm-hlju-2026-0831.html"
+  },
+  {
+    "url": "https://chuangxin.dlut.edu.cn/info/1018/16747.htm",
+    "source_id": "real-icnc-dlut-2026-0827",
+    "http_status": 200,
+    "final_url": "https://chuangxin.dlut.edu.cn/info/1018/16747.htm",
+    "retrieved_at": "2026-10-28T06:50:55.853886+00:00",
+    "sha256": "17035d0c8e10e4dfc76dc9eb10c8a52773e076f100f8ec8c5b412f46a8bdece3",
+    "raw_file": "real-icnc-dlut-2026-0827.html"
+  },
+  {
+    "url": "https://jwc.nufe.edu.cn/info/1031/18284.htm",
+    "source_id": "real-mcm-nufe-2026-0707",
+    "http_status": 200,
+    "final_url": "https://jwc.nufe.edu.cn/info/1031/18284.htm",
+    "retrieved_at": "2026-10-28T06:50:55.825945+00:00",
+    "sha256": "ab3ca1888978edca0d2ee7b32bc061e5cebdcc0717efb73db6b8f77cce70adb7",
+    "raw_file": "real-mcm-nufe-2026-0707.html"
+  },
+  {
+    "url": "https://eee.zqu.edu.cn/info/1186/43132.htm",
+    "source_id": "real-lanqiao-zqu-2026-1013",
+    "http_status": 200,
+    "final_url": "https://eee.zqu.edu.cn/info/1186/43132.htm",
+    "retrieved_at": "2026-10-28T06:50:55.765913+00:00",
+    "sha256": "2a3045d1fea6fc35ea0811c81a45adbd3f73544cd95c967d5b0fc523f9e7bb52",
+    "raw_file": "real-lanqiao-zqu-2026-1013.html"
+  },
+  {
+    "url": "https://jwc.scu.edu.cn/info/1069/10764.htm",
+    "source_id": "real-icnc-scu-2026-0828",
+    "http_status": 200,
+    "final_url": "https://jwc.scu.edu.cn/info/1069/10764.htm",
+    "retrieved_at": "2026-10-28T06:50:55.857943+00:00",
+    "sha256": "8a7fcdee5fd6e9b0a3af6d073a72fcee237a838ec41d847e135122b95bec5682",
+    "raw_file": "real-icnc-scu-2026-0828.html"
+  }
+]

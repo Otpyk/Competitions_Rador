@@ -1,0 +1,81 @@
+{
+  "checked_at": "2026-10-28T15:49:07.784437+00:00",
+  "policy_version": "b-frozen-20261028",
+  "candidate_count": 6,
+  "c_actual_consumer_executed": true,
+  "source_pages_reviewed_online": 5,
+  "source_approval_records": 22,
+  "verified_field_count": 1,
+  "scope_decisions_applied_in_versioned_copy": 3,
+  "real_search_callback_executed": false,
+  "receipts": [
+    {
+      "competition_id": "curated-hlju-mcm-2026-campus",
+      "reference_receiver_accepted": true,
+      "c_actual_consumer_accepted": true,
+      "status": "pending",
+      "coverage": 0.0,
+      "verified_fields": {},
+      "source_identity_approved_count": 25,
+      "assessed_fields": 27,
+      "required_fields": 22
+    },
+    {
+      "competition_id": "dlut-icnc-2026-campus-registration",
+      "reference_receiver_accepted": true,
+      "c_actual_consumer_accepted": true,
+      "status": "pending",
+      "coverage": 0.0,
+      "verified_fields": {},
+      "source_identity_approved_count": 19,
+      "assessed_fields": 26,
+      "required_fields": 22
+    },
+    {
+      "competition_id": "curated-nufe-mcm-2026-campus",
+      "reference_receiver_accepted": true,
+      "c_actual_consumer_accepted": true,
+      "status": "pending",
+      "coverage": 0.045454545454545456,
+      "verified_fields": {
+        "official_url": "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+      },
+      "source_identity_approved_count": 28,
+      "assessed_fields": 29,
+      "required_fields": 22
+    },
+    {
+      "competition_id": "curated-zqu-lanqiao-18-college-selection",
+      "reference_receiver_accepted": true,
+      "c_actual_consumer_accepted": true,
+      "status": "pending",
+      "coverage": 0.0,
+      "verified_fields": {},
+      "source_identity_approved_count": 14,
+      "assessed_fields": 25,
+      "required_fields": 22
+    },
+    {
+      "competition_id": "curated-scu-icnc-2026-industry-enterprise",
+      "reference_receiver_accepted": true,
+      "c_actual_consumer_accepted": true,
+      "status": "pending",
+      "coverage": 0.0,
+      "verified_fields": {},
+      "source_identity_approved_count": 25,
+      "assessed_fields": 27,
+      "required_fields": 22
+    },
+    {
+      "competition_id": "curated-scu-icnc-2026-industry-commercialization",
+      "reference_receiver_accepted": true,
+      "c_actual_consumer_accepted": true,
+      "status": "pending",
+      "coverage": 0.0,
+      "verified_fields": {},
+      "source_identity_approved_count": 25,
+      "assessed_fields": 27,
+      "required_fields": 22
+    }
+  ]
+}

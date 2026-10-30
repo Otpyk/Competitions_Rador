@@ -1,0 +1,79 @@
+[
+  {
+    "contest_id": "curated-hlju-mcm-2026-campus",
+    "source_ids": [
+      "real-mcm-hlju-2026-0831"
+    ],
+    "context": {
+      "school": "黑龙江大学",
+      "stage": "本校报名与参赛组织",
+      "scope_note": "本校费用减免、教师要求及弃赛处罚，不推广到其他学校。"
+    },
+    "annotation_file": "annotations/curated_hlju_mcm.md"
+  },
+  {
+    "contest_id": "dlut-icnc-2026-campus-registration",
+    "source_ids": [
+      "real-icnc-dlut-2026-0827"
+    ],
+    "context": {
+      "school": "大连理工大学",
+      "stage": "本校各赛道报名工作",
+      "scope_note": "未选定具体赛道；高教主赛道国际项目有不同入口，保留条件分支。"
+    },
+    "annotation_file": "annotations/curated_dlut_registration.md"
+  },
+  {
+    "contest_id": "curated-nufe-mcm-2026-campus",
+    "source_ids": [
+      "real-mcm-nufe-2026-0707"
+    ],
+    "context": {
+      "school": "南京财经大学",
+      "stage": "本科组参赛组织与暑期培训报名",
+      "scope_note": "7月10日至19日为培训报名；教练组培训后统一正式报名，正式截止未知。"
+    },
+    "annotation_file": "annotations/curated_nufe_mcm.md"
+  },
+  {
+    "contest_id": "curated-zqu-lanqiao-18-college-selection",
+    "source_ids": [
+      "real-lanqiao-zqu-2026-1013"
+    ],
+    "context": {
+      "school": "肇庆学院",
+      "unit": "电子与电气工程学院",
+      "stage": "院赛报名及选拔",
+      "scope_note": "仅该学院在读大二、大三且未参加过往届比赛；院赛截止不作全国截止。"
+    },
+    "annotation_file": "annotations/curated_zqu_lanqiao.md"
+  },
+  {
+    "contest_id": "curated-scu-icnc-2026-industry-enterprise",
+    "source_ids": [
+      "real-icnc-scu-2026-0828"
+    ],
+    "context": {
+      "school": "四川大学",
+      "parent_track": "产业赛道",
+      "track": "企业命题组",
+      "stage": "全国网报与校内报名、选拔",
+      "scope_note": "需要对接企业命题；保留全国与本校手续的区别。"
+    },
+    "annotation_file": "annotations/ANNOTATION.md"
+  },
+  {
+    "contest_id": "curated-scu-icnc-2026-industry-commercialization",
+    "source_ids": [
+      "real-icnc-scu-2026-0828"
+    ],
+    "context": {
+      "school": "四川大学",
+      "parent_track": "产业赛道",
+      "track": "成果转化组",
+      "stage": "全国网报与校内报名、选拔",
+      "scope_note": "不需要对接企业命题，与企业命题组分别保留。"
+    },
+    "annotation_file": "annotations/curated_scu_commercialization.md"
+  }
+]

@@ -1,0 +1,73 @@
+{
+  "version": "b-frozen-20261028",
+  "accepted_source_types": [
+    "official"
+  ],
+  "conflict_source_types": [
+    "official",
+    "school"
+  ],
+  "school_accepted_fields": [
+    "campus_deadline",
+    "institutional_requirements",
+    "school_recognition",
+    "contacts",
+    "official_url"
+  ],
+  "profiles": {
+    "student_22": {
+      "required_fields": [
+        "competition_name",
+        "competition_edition",
+        "track",
+        "organizer",
+        "official_url",
+        "eligibility",
+        "participation_mode",
+        "team_rules",
+        "registration_start",
+        "registration_deadline",
+        "campus_deadline",
+        "task_description",
+        "deliverables",
+        "submission_deadline",
+        "attendance_mode",
+        "venue",
+        "registration_fee",
+        "mandatory_fees",
+        "registration_method",
+        "registration_url",
+        "registration_materials",
+        "institutional_requirements"
+      ],
+      "meaning": "正式31字段链路，22项核心必须调查"
+    },
+    "legacy_11_bridge": {
+      "required_fields": [
+        "competition_name",
+        "organizer",
+        "competition_edition",
+        "track",
+        "eligibility",
+        "registration_start",
+        "registration_deadline",
+        "official_url",
+        "registration_url"
+      ],
+      "meaning": "A旧11字段接口的9项映射兼容检查，不冒称22项完成"
+    }
+  },
+  "unmapped_legacy_fields": {
+    "stage": "unverified",
+    "tags": "unverified"
+  },
+  "cost_unit": "CNY",
+  "cost_unknown": "null; never free",
+  "default_budget": {
+    "max_rounds": 2,
+    "max_calls": 6,
+    "max_queries_per_round": 3,
+    "max_cost": null
+  },
+  "school_policy": "学校来源仅可在具体学校范围独立证明列出的行政或通知链接字段；不能以school类型独立确认全国规则。"
+}

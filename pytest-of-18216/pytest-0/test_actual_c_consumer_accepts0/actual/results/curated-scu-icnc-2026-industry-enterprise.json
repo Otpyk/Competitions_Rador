@@ -1,0 +1,1482 @@
+{
+  "data_kind": "real_candidate_frozen_policy_verification",
+  "notice": "B正式策略与来源审批；无法由保守原文规则确认的内容保留待确认。未执行补搜。",
+  "verification": {
+    "competition_id": "curated-scu-icnc-2026-industry-enterprise",
+    "status": "pending",
+    "fields": {
+      "competition_name": {
+        "field": "competition_name",
+        "status": "pending",
+        "original_value": "中国国际大学生创新大赛（2026）",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "scu-2026-competition_name-1": [
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "repair_extraction",
+        "action_reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ]
+      },
+      "competition_edition": {
+        "field": "competition_edition",
+        "status": "pending",
+        "original_value": "2026",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "scu-2026-competition_edition-1": [
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "repair_extraction",
+        "action_reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ]
+      },
+      "track": {
+        "field": "track",
+        "status": "pending",
+        "original_value": "企业命题组",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "scu-2026-track-1": [
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "repair_extraction",
+        "action_reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ]
+      },
+      "organizer": {
+        "field": "organizer",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "official_url": {
+        "field": "official_url",
+        "status": "pending",
+        "original_value": "https://jwc.scu.edu.cn/info/1069/10764.htm",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "scu-2026-official_url-1": [
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:四川大学",
+        "next_action": "repair_extraction",
+        "action_reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ]
+      },
+      "eligibility": {
+        "field": "eligibility",
+        "status": "pending",
+        "original_value": "一、报名安排\n1.全国大学生创业服务网报名。请补报产业赛道的团队负责人在全国大学生创业服务网https://cy.ncss.cn/完成报名（以下简称大创网），网上报名只需提交网评版PPT。产业赛道报名系统开放起止时间为北京时间2026年8月27日—9月25日。其中企业命题组需要对接企业命题，点击\"产业赛道\"-\"企业命题组报名\"；成果转化组不需要对接命题，点击\"产业赛道\"-\"成果转化组报名\"。\n2.准备签字盖章报名表。参赛团队须填写《四川大学中国国际大学生创新大赛报名表》（见附件2），所有指导教师和参赛队员需在纸质版报名表上签字并加盖项目报送学院（负责人学籍所在学院）公章，拍照或扫描留存后，纸质版原件于9月2日12：00以前提交到项目负责人学籍所在学院审核。在校赛阶段，每名参赛人员在同赛道中参与不得超过2个项目，每个项目指导教师原则上不超过3名，每位指导教师指导当年项目仅限1个（含主赛道（不含国际项目）、红旅赛道、产业赛道），否则校赛系统无法成功报名。\n3.四川大学中国国际大学生创新大赛管理系统报名。在大创网提交报名之后，请参赛团队指派一人在四川大学中国国际大学生创新大赛管理系统选择批次为\"中国国际大学生创新大赛（2026）四川大学校赛产业赛道报名\"填写项目报名信息（学生指南操作见附件3），并上传签字盖章的报名表、大创网报名成功截图、提交网评版PPT等。报名截止日期：9月2日12:00之前。请确保该系统填写的项目名称、赛道、组别、负责人、学号、学院、团队成员、指导教师信息（含姓名和顺序）同大创网和《报名表》的填报信息保持一致。\n4.学院审核。请学院根据学生提交的签字盖章报名表于9月2日12:00之前登录四川大学中国国际大学生创新大赛管理系统审核并推荐报名项目(学院操作指南见附件3）。在大创网、校赛评审系统均报名成功且通过学院审核的项目方可进入校赛。校赛、省赛、国赛参赛项目负责人、团队成员、指导教师姓名及排序等信息，均以学院审核为准，一经报名，原则上不能更改。\n\n二、报名须知\n1.鼓励师生团队揭榜命题新报产业赛道，亦鼓励主赛道、红旅赛道转报产业赛道。为避免项目名称在校赛系统中冲突，影响后续评审，转报产业赛道和再次报名产业赛道的项目更新项目名称后方可提交。\n2.9月2日12:00之前在四川大学中国国际大学生创新大赛管理系统报名者，报名结束后，学校组织网络评审和现场答辩评审，择优推荐项目参加省赛，不再授予校级奖励。\n3.参加本次产业赛道报名的项目请加入QQ群1044704684。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "scu-2026-eligibility-1": [
+            "direct_support_not_confirmed",
+            "unsupported_eligibility_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:四川大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ]
+      },
+      "participation_mode": {
+        "field": "participation_mode",
+        "status": "pending",
+        "original_value": "团队",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "scu-2026-participation_mode-1": [
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "repair_extraction",
+        "action_reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ]
+      },
+      "team_rules": {
+        "field": "team_rules",
+        "status": "pending",
+        "original_value": "2.准备签字盖章报名表。参赛团队须填写《四川大学中国国际大学生创新大赛报名表》（见附件2），所有指导教师和参赛队员需在纸质版报名表上签字并加盖项目报送学院（负责人学籍所在学院）公章，拍照或扫描留存后，纸质版原件于9月2日12：00以前提交到项目负责人学籍所在学院审核。在校赛阶段，每名参赛人员在同赛道中参与不得超过2个项目，每个项目指导教师原则上不超过3名，每位指导教师指导当年项目仅限1个（含主赛道（不含国际项目）、红旅赛道、产业赛道），否则校赛系统无法成功报名。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "scu-2026-team_rules-1": [
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:四川大学",
+        "next_action": "repair_extraction",
+        "action_reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ]
+      },
+      "registration_start": {
+        "field": "registration_start",
+        "status": "pending",
+        "original_value": "2026-08-27",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "scu-2026-registration_start-1": [
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "repair_extraction",
+        "action_reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ]
+      },
+      "registration_deadline": {
+        "field": "registration_deadline",
+        "status": "pending",
+        "original_value": "2026-09-25",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "scu-2026-registration_deadline-1": [
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "repair_extraction",
+        "action_reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ]
+      },
+      "campus_deadline": {
+        "field": "campus_deadline",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "scu-2026-campus_deadline-1": [
+            "invalid_claim_value",
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph"
+          ],
+          "scu-2026-campus_deadline-2": [
+            "invalid_claim_value",
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph"
+          ],
+          "scu-2026-campus_deadline-3": [
+            "invalid_claim_value",
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph"
+          ],
+          "scu-2026-campus_deadline-4": [
+            "invalid_claim_value",
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:四川大学",
+        "next_action": "repair_extraction",
+        "action_reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ]
+      },
+      "task_description": {
+        "field": "task_description",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "scu-2026-task_description-1": [
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "repair_extraction",
+        "action_reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ]
+      },
+      "deliverables": {
+        "field": "deliverables",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "scu-2026-deliverables-1": [
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "repair_extraction",
+        "action_reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ]
+      },
+      "submission_deadline": {
+        "field": "submission_deadline",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "attendance_mode": {
+        "field": "attendance_mode",
+        "status": "pending",
+        "original_value": "2.9月2日12:00之前在四川大学中国国际大学生创新大赛管理系统报名者，报名结束后，学校组织网络评审和现场答辩评审，择优推荐项目参加省赛，不再授予校级奖励。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "scu-2026-attendance_mode-1": [
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:四川大学",
+        "next_action": "repair_extraction",
+        "action_reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ]
+      },
+      "venue": {
+        "field": "venue",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "registration_fee": {
+        "field": "registration_fee",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "mandatory_fees": {
+        "field": "mandatory_fees",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "registration_method": {
+        "field": "registration_method",
+        "status": "pending",
+        "original_value": "一、报名安排\n1.全国大学生创业服务网报名。请补报产业赛道的团队负责人在全国大学生创业服务网https://cy.ncss.cn/完成报名（以下简称大创网），网上报名只需提交网评版PPT。产业赛道报名系统开放起止时间为北京时间2026年8月27日—9月25日。其中企业命题组需要对接企业命题，点击\"产业赛道\"-\"企业命题组报名\"；成果转化组不需要对接命题，点击\"产业赛道\"-\"成果转化组报名\"。\n2.准备签字盖章报名表。参赛团队须填写《四川大学中国国际大学生创新大赛报名表》（见附件2），所有指导教师和参赛队员需在纸质版报名表上签字并加盖项目报送学院（负责人学籍所在学院）公章，拍照或扫描留存后，纸质版原件于9月2日12：00以前提交到项目负责人学籍所在学院审核。在校赛阶段，每名参赛人员在同赛道中参与不得超过2个项目，每个项目指导教师原则上不超过3名，每位指导教师指导当年项目仅限1个（含主赛道（不含国际项目）、红旅赛道、产业赛道），否则校赛系统无法成功报名。\n3.四川大学中国国际大学生创新大赛管理系统报名。在大创网提交报名之后，请参赛团队指派一人在四川大学中国国际大学生创新大赛管理系统选择批次为\"中国国际大学生创新大赛（2026）四川大学校赛产业赛道报名\"填写项目报名信息（学生指南操作见附件3），并上传签字盖章的报名表、大创网报名成功截图、提交网评版PPT等。报名截止日期：9月2日12:00之前。请确保该系统填写的项目名称、赛道、组别、负责人、学号、学院、团队成员、指导教师信息（含姓名和顺序）同大创网和《报名表》的填报信息保持一致。\n4.学院审核。请学院根据学生提交的签字盖章报名表于9月2日12:00之前登录四川大学中国国际大学生创新大赛管理系统审核并推荐报名项目(学院操作指南见附件3）。在大创网、校赛评审系统均报名成功且通过学院审核的项目方可进入校赛。校赛、省赛、国赛参赛项目负责人、团队成员、指导教师姓名及排序等信息，均以学院审核为准，一经报名，原则上不能更改。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "scu-2026-registration_method-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:四川大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ]
+      },
+      "registration_url": {
+        "field": "registration_url",
+        "status": "pending",
+        "original_value": "https://cy.ncss.cn/",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "scu-2026-registration_url-1": [
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "repair_extraction",
+        "action_reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ]
+      },
+      "registration_materials": {
+        "field": "registration_materials",
+        "status": "pending",
+        "original_value": "2.准备签字盖章报名表。参赛团队须填写《四川大学中国国际大学生创新大赛报名表》（见附件2），所有指导教师和参赛队员需在纸质版报名表上签字并加盖项目报送学院（负责人学籍所在学院）公章，拍照或扫描留存后，纸质版原件于9月2日12：00以前提交到项目负责人学籍所在学院审核。在校赛阶段，每名参赛人员在同赛道中参与不得超过2个项目，每个项目指导教师原则上不超过3名，每位指导教师指导当年项目仅限1个（含主赛道（不含国际项目）、红旅赛道、产业赛道），否则校赛系统无法成功报名。\n3.四川大学中国国际大学生创新大赛管理系统报名。在大创网提交报名之后，请参赛团队指派一人在四川大学中国国际大学生创新大赛管理系统选择批次为\"中国国际大学生创新大赛（2026）四川大学校赛产业赛道报名\"填写项目报名信息（学生指南操作见附件3），并上传签字盖章的报名表、大创网报名成功截图、提交网评版PPT等。报名截止日期：9月2日12:00之前。请确保该系统填写的项目名称、赛道、组别、负责人、学号、学院、团队成员、指导教师信息（含姓名和顺序）同大创网和《报名表》的填报信息保持一致。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "scu-2026-registration_materials-1": [
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:四川大学",
+        "next_action": "repair_extraction",
+        "action_reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ]
+      },
+      "institutional_requirements": {
+        "field": "institutional_requirements",
+        "status": "pending",
+        "original_value": "2.准备签字盖章报名表。参赛团队须填写《四川大学中国国际大学生创新大赛报名表》（见附件2），所有指导教师和参赛队员需在纸质版报名表上签字并加盖项目报送学院（负责人学籍所在学院）公章，拍照或扫描留存后，纸质版原件于9月2日12：00以前提交到项目负责人学籍所在学院审核。在校赛阶段，每名参赛人员在同赛道中参与不得超过2个项目，每个项目指导教师原则上不超过3名，每位指导教师指导当年项目仅限1个（含主赛道（不含国际项目）、红旅赛道、产业赛道），否则校赛系统无法成功报名。\n3.四川大学中国国际大学生创新大赛管理系统报名。在大创网提交报名之后，请参赛团队指派一人在四川大学中国国际大学生创新大赛管理系统选择批次为\"中国国际大学生创新大赛（2026）四川大学校赛产业赛道报名\"填写项目报名信息（学生指南操作见附件3），并上传签字盖章的报名表、大创网报名成功截图、提交网评版PPT等。报名截止日期：9月2日12:00之前。请确保该系统填写的项目名称、赛道、组别、负责人、学号、学院、团队成员、指导教师信息（含姓名和顺序）同大创网和《报名表》的填报信息保持一致。\n4.学院审核。请学院根据学生提交的签字盖章报名表于9月2日12:00之前登录四川大学中国国际大学生创新大赛管理系统审核并推荐报名项目(学院操作指南见附件3）。在大创网、校赛评审系统均报名成功且通过学院审核的项目方可进入校赛。校赛、省赛、国赛参赛项目负责人、团队成员、指导教师姓名及排序等信息，均以学院审核为准，一经报名，原则上不能更改。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "scu-2026-institutional_requirements-1": [
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:四川大学",
+        "next_action": "repair_extraction",
+        "action_reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ]
+      },
+      "schedule": {
+        "field": "schedule",
+        "status": "pending",
+        "original_value": "2.9月2日12:00之前在四川大学中国国际大学生创新大赛管理系统报名者，报名结束后，学校组织网络评审和现场答辩评审，择优推荐项目参加省赛，不再授予校级奖励。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "scu-2026-schedule-1": [
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph",
+            "insufficient_source_type"
+          ]
+        },
+        "required": false,
+        "requirement_reasons": [
+          "拓展项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:四川大学",
+        "next_action": "repair_extraction",
+        "action_reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ]
+      },
+      "judging_criteria": {
+        "field": "judging_criteria",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "scu-2026-judging_criteria-1": [
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph",
+            "insufficient_source_type"
+          ]
+        },
+        "required": false,
+        "requirement_reasons": [
+          "拓展项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:四川大学",
+        "next_action": "repair_extraction",
+        "action_reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ]
+      },
+      "awards": {
+        "field": "awards",
+        "status": "pending",
+        "original_value": "不再授予校级奖励。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "scu-2026-awards-1": [
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph",
+            "insufficient_source_type"
+          ]
+        },
+        "required": false,
+        "requirement_reasons": [
+          "拓展项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:四川大学",
+        "next_action": "repair_extraction",
+        "action_reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ]
+      },
+      "work_rules": {
+        "field": "work_rules",
+        "status": "pending",
+        "original_value": "1.鼓励师生团队揭榜命题新报产业赛道，亦鼓励主赛道、红旅赛道转报产业赛道。为避免项目名称在校赛系统中冲突，影响后续评审，转报产业赛道和再次报名产业赛道的项目更新项目名称后方可提交。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "scu-2026-work_rules-1": [
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph",
+            "insufficient_source_type"
+          ]
+        },
+        "required": false,
+        "requirement_reasons": [
+          "拓展项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:四川大学",
+        "next_action": "repair_extraction",
+        "action_reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ]
+      },
+      "contacts": {
+        "field": "contacts",
+        "status": "pending",
+        "original_value": "三、竞赛信息交流渠道\n中国国际大学生创新大赛（2026）四川大学校赛信息发布：四川大学教务处官网。\n中国国际大学生创新大赛（2026）四川大学校赛官方QQ群号：239344010（学生1群）、972398755（学生2群），972772055（教师群）。\n校赛联系人：王老师 85400031 邮箱cxcy@scu.edu.cn。\n系统技术人员：李工18018038173，QQ：2880632006",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "scu-2026-contacts-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence"
+          ]
+        },
+        "required": false,
+        "requirement_reasons": [
+          "拓展项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:四川大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ]
+      }
+    },
+    "missing_fields": [
+      "organizer",
+      "campus_deadline",
+      "task_description",
+      "deliverables",
+      "submission_deadline",
+      "venue",
+      "registration_fee",
+      "mandatory_fees",
+      "judging_criteria"
+    ],
+    "unresolved_fields": [
+      "competition_name",
+      "competition_edition",
+      "track",
+      "organizer",
+      "official_url",
+      "eligibility",
+      "participation_mode",
+      "team_rules",
+      "registration_start",
+      "registration_deadline",
+      "campus_deadline",
+      "task_description",
+      "deliverables",
+      "submission_deadline",
+      "attendance_mode",
+      "venue",
+      "registration_fee",
+      "mandatory_fees",
+      "registration_method",
+      "registration_url",
+      "registration_materials",
+      "institutional_requirements"
+    ],
+    "coverage": 0.0,
+    "required_fields": [
+      "competition_name",
+      "competition_edition",
+      "track",
+      "organizer",
+      "official_url",
+      "eligibility",
+      "participation_mode",
+      "team_rules",
+      "registration_start",
+      "registration_deadline",
+      "campus_deadline",
+      "task_description",
+      "deliverables",
+      "submission_deadline",
+      "attendance_mode",
+      "venue",
+      "registration_fee",
+      "mandatory_fees",
+      "registration_method",
+      "registration_url",
+      "registration_materials",
+      "institutional_requirements"
+    ],
+    "promoted_fields": [],
+    "optional_unresolved_fields": [
+      "schedule",
+      "judging_criteria",
+      "awards",
+      "work_rules",
+      "contacts"
+    ],
+    "optional_conflict_fields": [],
+    "unrecognized_fields": [],
+    "verified_at": "2026-10-28T15:49:07.733075+00:00",
+    "consistency_issues": [],
+    "verified_fields": {},
+    "not_applicable_fields": {},
+    "status_scope": "required_fields_only",
+    "action_items": [
+      {
+        "field": "competition_name",
+        "label": "赛事名称",
+        "action": "repair_extraction",
+        "action_label": "修正抽取结果",
+        "owner": "C",
+        "reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ],
+        "candidate_evidence_refs": [
+          "scu-2026-competition_name-1"
+        ]
+      },
+      {
+        "field": "competition_edition",
+        "label": "届次年份",
+        "action": "repair_extraction",
+        "action_label": "修正抽取结果",
+        "owner": "C",
+        "reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ],
+        "candidate_evidence_refs": [
+          "scu-2026-competition_edition-1"
+        ]
+      },
+      {
+        "field": "track",
+        "label": "赛道组别",
+        "action": "repair_extraction",
+        "action_label": "修正抽取结果",
+        "owner": "C",
+        "reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ],
+        "candidate_evidence_refs": [
+          "scu-2026-track-1"
+        ]
+      },
+      {
+        "field": "organizer",
+        "label": "主办方",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "official_url",
+        "label": "官方通知链接",
+        "action": "repair_extraction",
+        "action_label": "修正抽取结果",
+        "owner": "C",
+        "reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "scope": "campus:四川大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ],
+        "candidate_evidence_refs": [
+          "scu-2026-official_url-1"
+        ]
+      },
+      {
+        "field": "eligibility",
+        "label": "参赛资格",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:四川大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ],
+        "candidate_evidence_refs": [
+          "scu-2026-eligibility-1"
+        ]
+      },
+      {
+        "field": "participation_mode",
+        "label": "参赛形式",
+        "action": "repair_extraction",
+        "action_label": "修正抽取结果",
+        "owner": "C",
+        "reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ],
+        "candidate_evidence_refs": [
+          "scu-2026-participation_mode-1"
+        ]
+      },
+      {
+        "field": "team_rules",
+        "label": "组队规则",
+        "action": "repair_extraction",
+        "action_label": "修正抽取结果",
+        "owner": "C",
+        "reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "scope": "campus:四川大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ],
+        "candidate_evidence_refs": [
+          "scu-2026-team_rules-1"
+        ]
+      },
+      {
+        "field": "registration_start",
+        "label": "报名开始日期",
+        "action": "repair_extraction",
+        "action_label": "修正抽取结果",
+        "owner": "C",
+        "reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ],
+        "candidate_evidence_refs": [
+          "scu-2026-registration_start-1"
+        ]
+      },
+      {
+        "field": "registration_deadline",
+        "label": "报名截止日期",
+        "action": "repair_extraction",
+        "action_label": "修正抽取结果",
+        "owner": "C",
+        "reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ],
+        "candidate_evidence_refs": [
+          "scu-2026-registration_deadline-1"
+        ]
+      },
+      {
+        "field": "campus_deadline",
+        "label": "校内截止日期",
+        "action": "repair_extraction",
+        "action_label": "修正抽取结果",
+        "owner": "C",
+        "reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "scope": "campus:四川大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ],
+        "candidate_evidence_refs": [
+          "scu-2026-campus_deadline-1",
+          "scu-2026-campus_deadline-2",
+          "scu-2026-campus_deadline-3",
+          "scu-2026-campus_deadline-4"
+        ]
+      },
+      {
+        "field": "task_description",
+        "label": "比赛任务",
+        "action": "repair_extraction",
+        "action_label": "修正抽取结果",
+        "owner": "C",
+        "reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ],
+        "candidate_evidence_refs": [
+          "scu-2026-task_description-1"
+        ]
+      },
+      {
+        "field": "deliverables",
+        "label": "提交成果",
+        "action": "repair_extraction",
+        "action_label": "修正抽取结果",
+        "owner": "C",
+        "reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ],
+        "candidate_evidence_refs": [
+          "scu-2026-deliverables-1"
+        ]
+      },
+      {
+        "field": "submission_deadline",
+        "label": "作品提交截止日期",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "attendance_mode",
+        "label": "参赛方式",
+        "action": "repair_extraction",
+        "action_label": "修正抽取结果",
+        "owner": "C",
+        "reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "scope": "campus:四川大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ],
+        "candidate_evidence_refs": [
+          "scu-2026-attendance_mode-1"
+        ]
+      },
+      {
+        "field": "venue",
+        "label": "比赛地点",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "registration_fee",
+        "label": "报名费用",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "mandatory_fees",
+        "label": "后续必缴费用",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "registration_method",
+        "label": "报名方式",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:四川大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ],
+        "candidate_evidence_refs": [
+          "scu-2026-registration_method-1"
+        ]
+      },
+      {
+        "field": "registration_url",
+        "label": "官方报名入口",
+        "action": "repair_extraction",
+        "action_label": "修正抽取结果",
+        "owner": "C",
+        "reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ],
+        "candidate_evidence_refs": [
+          "scu-2026-registration_url-1"
+        ]
+      },
+      {
+        "field": "registration_materials",
+        "label": "报名材料",
+        "action": "repair_extraction",
+        "action_label": "修正抽取结果",
+        "owner": "C",
+        "reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "scope": "campus:四川大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ],
+        "candidate_evidence_refs": [
+          "scu-2026-registration_materials-1"
+        ]
+      },
+      {
+        "field": "institutional_requirements",
+        "label": "学校及教师手续",
+        "action": "repair_extraction",
+        "action_label": "修正抽取结果",
+        "owner": "C",
+        "reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "scope": "campus:四川大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://jwc.scu.edu.cn/info/1069/10764.htm"
+        ],
+        "candidate_evidence_refs": [
+          "scu-2026-institutional_requirements-1"
+        ]
+      }
+    ]
+  },
+  "requests": [
+    {
+      "action": "search",
+      "competition_id": "curated-scu-icnc-2026-industry-enterprise",
+      "contest_name": "中国国际大学生创新大赛（2026）",
+      "edition": "2026",
+      "target_fields": [
+        "organizer"
+      ],
+      "scope": "global",
+      "query": "中国国际大学生创新大赛（2026） 2026 主办单位 官方通知",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    },
+    {
+      "action": "search",
+      "competition_id": "curated-scu-icnc-2026-industry-enterprise",
+      "contest_name": "中国国际大学生创新大赛（2026）",
+      "edition": "2026",
+      "target_fields": [
+        "submission_deadline"
+      ],
+      "scope": "global",
+      "query": "中国国际大学生创新大赛（2026） 2026 作品 提交 截止日期",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    },
+    {
+      "action": "search",
+      "competition_id": "curated-scu-icnc-2026-industry-enterprise",
+      "contest_name": "中国国际大学生创新大赛（2026）",
+      "edition": "2026",
+      "target_fields": [
+        "venue"
+      ],
+      "scope": "global",
+      "query": "中国国际大学生创新大赛（2026） 2026 比赛地点 决赛城市 到场",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    },
+    {
+      "action": "search",
+      "competition_id": "curated-scu-icnc-2026-industry-enterprise",
+      "contest_name": "中国国际大学生创新大赛（2026）",
+      "edition": "2026",
+      "target_fields": [
+        "registration_fee"
+      ],
+      "scope": "global",
+      "query": "中国国际大学生创新大赛（2026） 2026 报名费 收费标准 每人 每队",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    },
+    {
+      "action": "search",
+      "competition_id": "curated-scu-icnc-2026-industry-enterprise",
+      "contest_name": "中国国际大学生创新大赛（2026）",
+      "edition": "2026",
+      "target_fields": [
+        "mandatory_fees"
+      ],
+      "scope": "global",
+      "query": "中国国际大学生创新大赛（2026） 2026 复赛 决赛 必缴 费用 收费",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    }
+  ],
+  "source_reviews": [
+    {
+      "evidence_id": "scu-2026-competition_name-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "scu-2026-competition_edition-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "scu-2026-track-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "scu-2026-official_url-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "scu-2026-eligibility-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_eligibility_sentence"
+      ]
+    },
+    {
+      "evidence_id": "scu-2026-participation_mode-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "scu-2026-team_rules-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "scu-2026-registration_start-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "scu-2026-registration_deadline-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "scu-2026-campus_deadline-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "scu-2026-campus_deadline-2",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "scu-2026-campus_deadline-3",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "scu-2026-campus_deadline-4",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "scu-2026-task_description-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "scu-2026-deliverables-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "scu-2026-attendance_mode-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "scu-2026-registration_method-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "scu-2026-registration_url-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "scu-2026-registration_materials-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "scu-2026-institutional_requirements-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "scu-2026-schedule-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "scu-2026-judging_criteria-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "scu-2026-awards-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "scu-2026-work_rules-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "scu-2026-contacts-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    }
+  ]
+}

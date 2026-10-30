@@ -1,0 +1,42 @@
+{
+  "competition": {
+    "id": "fictional-ai-2026",
+    "name": "虚构校园 AI 创意赛",
+    "edition": "2026",
+    "scope": "global",
+    "registration_deadline": {"value": null, "evidence": [], "status": "missing"},
+    "eligibility": {
+      "value": "全国高校在读本科生可以参加。",
+      "evidence": [{
+        "id": "eligibility-raw",
+        "value": "全国高校在读本科生可以参加。",
+        "url": "https://contest.example.invalid/2026/rules",
+        "quote": "参赛资格：全国高校在读本科生可以参加。",
+        "edition": "2026"
+      }]
+    },
+    "registration_url": {
+      "value": "https://contest.example.invalid/2026/register",
+      "evidence": [{
+        "id": "registration-url-raw",
+        "value": "https://contest.example.invalid/2026/register",
+        "url": "https://contest.example.invalid/2026/rules",
+        "quote": "官方报名入口：https://contest.example.invalid/2026/register",
+        "edition": "2026"
+      }]
+    }
+  },
+  "approved_sources": [{
+    "competition_id": "fictional-ai-2026",
+    "edition": "2026",
+    "scope": "global",
+    "url": "https://contest.example.invalid/2026/rules",
+    "source_type": "official",
+    "approved_by": "fixture:B-reviewed-fictional-source"
+  }],
+  "snapshots": [{
+    "url": "https://contest.example.invalid/2026/rules",
+    "text": "虚构校园 AI 创意赛 2026 届规则（离线示例，不是真实网页）\n\n参赛资格：全国高校在读本科生可以参加。\n\n官方报名入口：https://contest.example.invalid/2026/register",
+    "retrieved_at": "2026-10-22T10:00:00+08:00"
+  }]
+}

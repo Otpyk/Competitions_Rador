@@ -1,0 +1,7 @@
+# 真实 GPT Researcher 引擎的可选依赖（较重，且需要 API Key）
+# 仅在需要使用真实搜索能力时安装：
+#   pip install -r requirements.txt -r requirements-researcher.txt
+#
+# 注意：gpt-researcher 依赖较多，对 Python 版本较敏感（本项目在 Python 3.13 上
+# 未验证其全量兼容性）。若安装失败或不想引入重依赖，请保持 RESEARCHER_MODE=mock。
+gpt-researcher>=0.9.5

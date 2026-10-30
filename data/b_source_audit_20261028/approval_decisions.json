@@ -1,0 +1,52 @@
+[
+  {
+    "source_id": "real-mcm-hlju-2026-0831",
+    "url": "https://math.hlju.edu.cn/info/1009/2406.htm",
+    "decision": "approved_school",
+    "source_type": "school",
+    "ownership": "已在线读取大学官方子站相应通知，确认通知身份与届次。",
+    "scope_limit": "只批准本次精确赛事/届次/范围/URL，不能推广到其他赛事、学校或届次。",
+    "content_limit": "批准来源身份不等于批准所有字段；A旧快照存在排版/文字清理，逐字段仍按原句及规则审查。",
+    "raw_capture": "data/b_source_audit_20261028/real-mcm-hlju-2026-0831.html"
+  },
+  {
+    "source_id": "real-icnc-dlut-2026-0827",
+    "url": "https://chuangxin.dlut.edu.cn/info/1018/16747.htm",
+    "decision": "approved_school",
+    "source_type": "school",
+    "ownership": "已在线读取大学官方子站相应通知，确认通知身份与届次。",
+    "scope_limit": "只批准本次精确赛事/届次/范围/URL，不能推广到其他赛事、学校或届次。",
+    "content_limit": "批准来源身份不等于批准所有字段；A旧快照存在排版/文字清理，逐字段仍按原句及规则审查。",
+    "raw_capture": "data/b_source_audit_20261028/real-icnc-dlut-2026-0827.html"
+  },
+  {
+    "source_id": "real-mcm-nufe-2026-0707",
+    "url": "https://jwc.nufe.edu.cn/info/1031/18284.htm",
+    "decision": "approved_school",
+    "source_type": "school",
+    "ownership": "已在线读取大学官方子站相应通知，确认通知身份与届次。",
+    "scope_limit": "只批准本次精确赛事/届次/范围/URL，不能推广到其他赛事、学校或届次。",
+    "content_limit": "批准来源身份不等于批准所有字段；A旧快照存在排版/文字清理，逐字段仍按原句及规则审查。",
+    "raw_capture": "data/b_source_audit_20261028/real-mcm-nufe-2026-0707.html"
+  },
+  {
+    "source_id": "real-lanqiao-zqu-2026-1013",
+    "url": "https://eee.zqu.edu.cn/info/1186/43132.htm",
+    "decision": "approved_school",
+    "source_type": "school",
+    "ownership": "已在线读取大学官方子站相应通知，确认通知身份与届次。",
+    "scope_limit": "只批准本次精确赛事/届次/范围/URL，不能推广到其他赛事、学校或届次。",
+    "content_limit": "批准来源身份不等于批准所有字段；A旧快照存在排版/文字清理，逐字段仍按原句及规则审查。",
+    "raw_capture": "data/b_source_audit_20261028/real-lanqiao-zqu-2026-1013.html"
+  },
+  {
+    "source_id": "real-icnc-scu-2026-0828",
+    "url": "https://jwc.scu.edu.cn/info/1069/10764.htm",
+    "decision": "approved_school",
+    "source_type": "school",
+    "ownership": "已在线读取大学官方子站相应通知，确认通知身份与届次。",
+    "scope_limit": "只批准本次精确赛事/届次/范围/URL，不能推广到其他赛事、学校或届次。",
+    "content_limit": "批准来源身份不等于批准所有字段；A旧快照存在排版/文字清理，逐字段仍按原句及规则审查。",
+    "raw_capture": "data/b_source_audit_20261028/real-icnc-scu-2026-0828.html"
+  }
+]

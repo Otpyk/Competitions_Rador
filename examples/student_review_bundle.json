@@ -1,0 +1,336 @@
+{
+  "competition": {
+    "id": "fictional-student-v2",
+    "name": "虚构学生创意赛",
+    "edition": "2026",
+    "scope": "global",
+    "field_scopes": {},
+    "fields": {
+      "competition_name": {
+        "value": "虚构学生创意赛",
+        "evidence": [
+          {
+            "id": "fixture-competition_name",
+            "value": "虚构学生创意赛",
+            "url": "https://contest.example.invalid/2026/notice",
+            "quote": "赛事名称：虚构学生创意赛",
+            "edition": "2026",
+            "scope": "global",
+            "value_kind": "value"
+          }
+        ]
+      },
+      "competition_edition": {
+        "value": "2026",
+        "evidence": [
+          {
+            "id": "fixture-competition_edition",
+            "value": "2026",
+            "url": "https://contest.example.invalid/2026/notice",
+            "quote": "届次年份：2026",
+            "edition": "2026",
+            "scope": "global",
+            "value_kind": "value"
+          }
+        ]
+      },
+      "track": {
+        "value": "软件创意组",
+        "evidence": [
+          {
+            "id": "fixture-track",
+            "value": "软件创意组",
+            "url": "https://contest.example.invalid/2026/notice",
+            "quote": "赛道组别：软件创意组",
+            "edition": "2026",
+            "scope": "global",
+            "value_kind": "value"
+          }
+        ]
+      },
+      "organizer": {
+        "value": "虚构竞赛组委会",
+        "evidence": [
+          {
+            "id": "fixture-organizer",
+            "value": "虚构竞赛组委会",
+            "url": "https://contest.example.invalid/2026/notice",
+            "quote": "主办方：虚构竞赛组委会",
+            "edition": "2026",
+            "scope": "global",
+            "value_kind": "value"
+          }
+        ]
+      },
+      "official_url": {
+        "value": "https://contest.example.invalid/2026/notice",
+        "evidence": [
+          {
+            "id": "fixture-official_url",
+            "value": "https://contest.example.invalid/2026/notice",
+            "url": "https://contest.example.invalid/2026/notice",
+            "quote": "官方通知链接：https://contest.example.invalid/2026/notice",
+            "edition": "2026",
+            "scope": "global",
+            "value_kind": "value"
+          }
+        ]
+      },
+      "eligibility": {
+        "value": "全国高校在读本科生；不接受研究生参赛。",
+        "evidence": [
+          {
+            "id": "fixture-eligibility",
+            "value": "全国高校在读本科生；不接受研究生参赛。",
+            "url": "https://contest.example.invalid/2026/notice",
+            "quote": "参赛资格：全国高校在读本科生；不接受研究生参赛。",
+            "edition": "2026",
+            "scope": "global",
+            "value_kind": "value"
+          }
+        ]
+      },
+      "participation_mode": {
+        "value": "团队参赛。",
+        "evidence": [
+          {
+            "id": "fixture-participation_mode",
+            "value": "团队参赛。",
+            "url": "https://contest.example.invalid/2026/notice",
+            "quote": "参赛形式：团队参赛。",
+            "edition": "2026",
+            "scope": "global",
+            "value_kind": "value"
+          }
+        ]
+      },
+      "team_rules": {
+        "value": "每队2至4人，可跨校，须指定队长1名，无需指导教师。",
+        "evidence": [
+          {
+            "id": "fixture-team_rules",
+            "value": "每队2至4人，可跨校，须指定队长1名，无需指导教师。",
+            "url": "https://contest.example.invalid/2026/notice",
+            "quote": "组队规则：每队2至4人，可跨校，须指定队长1名，无需指导教师。",
+            "edition": "2026",
+            "scope": "global",
+            "value_kind": "value"
+          }
+        ]
+      },
+      "registration_start": {
+        "value": "2026-10-20",
+        "evidence": [
+          {
+            "id": "fixture-registration_start",
+            "value": "2026-10-20",
+            "url": "https://contest.example.invalid/2026/notice",
+            "quote": "报名开始日期：2026-10-20",
+            "edition": "2026",
+            "scope": "global",
+            "value_kind": "value"
+          }
+        ]
+      },
+      "registration_deadline": {
+        "value": "2026-11-10",
+        "evidence": [
+          {
+            "id": "fixture-registration_deadline",
+            "value": "2026-11-10",
+            "url": "https://contest.example.invalid/2026/notice",
+            "quote": "报名截止日期：2026-11-10",
+            "edition": "2026",
+            "scope": "global",
+            "value_kind": "value"
+          }
+        ]
+      },
+      "campus_deadline": {
+        "value": null,
+        "evidence": [
+          {
+            "id": "fixture-campus_deadline",
+            "value": "本赛事由个人直接报名，无校内报名环节。",
+            "url": "https://contest.example.invalid/2026/notice",
+            "quote": "校内截止日期：本赛事由个人直接报名，无校内报名环节。",
+            "edition": "2026",
+            "scope": "global",
+            "value_kind": "not_applicable"
+          }
+        ]
+      },
+      "task_description": {
+        "value": "制作一款帮助学生规划学习的应用。",
+        "evidence": [
+          {
+            "id": "fixture-task_description",
+            "value": "制作一款帮助学生规划学习的应用。",
+            "url": "https://contest.example.invalid/2026/notice",
+            "quote": "比赛任务：制作一款帮助学生规划学习的应用。",
+            "edition": "2026",
+            "scope": "global",
+            "value_kind": "value"
+          }
+        ]
+      },
+      "deliverables": {
+        "value": "提交源代码、说明文档和3分钟演示视频。",
+        "evidence": [
+          {
+            "id": "fixture-deliverables",
+            "value": "提交源代码、说明文档和3分钟演示视频。",
+            "url": "https://contest.example.invalid/2026/notice",
+            "quote": "提交成果：提交源代码、说明文档和3分钟演示视频。",
+            "edition": "2026",
+            "scope": "global",
+            "value_kind": "value"
+          }
+        ]
+      },
+      "submission_deadline": {
+        "value": "2026-11-20",
+        "evidence": [
+          {
+            "id": "fixture-submission_deadline",
+            "value": "2026-11-20",
+            "url": "https://contest.example.invalid/2026/notice",
+            "quote": "作品提交截止日期：2026-11-20",
+            "edition": "2026",
+            "scope": "global",
+            "value_kind": "value"
+          }
+        ]
+      },
+      "attendance_mode": {
+        "value": "报名、初赛、决赛和答辩均在线上完成。",
+        "evidence": [
+          {
+            "id": "fixture-attendance_mode",
+            "value": "报名、初赛、决赛和答辩均在线上完成。",
+            "url": "https://contest.example.invalid/2026/notice",
+            "quote": "参赛方式：报名、初赛、决赛和答辩均在线上完成。",
+            "edition": "2026",
+            "scope": "global",
+            "value_kind": "value"
+          }
+        ]
+      },
+      "venue": {
+        "value": null,
+        "evidence": [
+          {
+            "id": "fixture-venue",
+            "value": "本赛事全程线上，无需到场。",
+            "url": "https://contest.example.invalid/2026/notice",
+            "quote": "比赛地点：本赛事全程线上，无需到场。",
+            "edition": "2026",
+            "scope": "global",
+            "value_kind": "not_applicable"
+          }
+        ]
+      },
+      "registration_fee": {
+        "value": "每队0元人民币。",
+        "evidence": [
+          {
+            "id": "fixture-registration_fee",
+            "value": "每队0元人民币。",
+            "url": "https://contest.example.invalid/2026/notice",
+            "quote": "报名费用：每队0元人民币。",
+            "edition": "2026",
+            "scope": "global",
+            "value_kind": "value"
+          }
+        ]
+      },
+      "mandatory_fees": {
+        "value": "赛事各阶段均不收取其他必缴费用。",
+        "evidence": [
+          {
+            "id": "fixture-mandatory_fees",
+            "value": "赛事各阶段均不收取其他必缴费用。",
+            "url": "https://contest.example.invalid/2026/notice",
+            "quote": "后续必缴费用：赛事各阶段均不收取其他必缴费用。",
+            "edition": "2026",
+            "scope": "global",
+            "value_kind": "value"
+          }
+        ]
+      },
+      "registration_method": {
+        "value": "队长在线注册并填写全队信息。",
+        "evidence": [
+          {
+            "id": "fixture-registration_method",
+            "value": "队长在线注册并填写全队信息。",
+            "url": "https://contest.example.invalid/2026/notice",
+            "quote": "报名方式：队长在线注册并填写全队信息。",
+            "edition": "2026",
+            "scope": "global",
+            "value_kind": "value"
+          }
+        ]
+      },
+      "registration_url": {
+        "value": "https://contest.example.invalid/2026/register",
+        "evidence": [
+          {
+            "id": "fixture-registration_url",
+            "value": "https://contest.example.invalid/2026/register",
+            "url": "https://contest.example.invalid/2026/notice",
+            "quote": "官方报名入口：https://contest.example.invalid/2026/register",
+            "edition": "2026",
+            "scope": "global",
+            "value_kind": "value"
+          }
+        ]
+      },
+      "registration_materials": {
+        "value": "全体队员学籍证明和队长联系方式。",
+        "evidence": [
+          {
+            "id": "fixture-registration_materials",
+            "value": "全体队员学籍证明和队长联系方式。",
+            "url": "https://contest.example.invalid/2026/notice",
+            "quote": "报名材料：全体队员学籍证明和队长联系方式。",
+            "edition": "2026",
+            "scope": "global",
+            "value_kind": "value"
+          }
+        ]
+      },
+      "institutional_requirements": {
+        "value": null,
+        "evidence": [
+          {
+            "id": "fixture-institutional_requirements",
+            "value": "本赛事无需学校推荐、审核、签字或盖章，无校内名额限制，无需指导教师确认。",
+            "url": "https://contest.example.invalid/2026/notice",
+            "quote": "学校及教师手续：本赛事无需学校推荐、审核、签字或盖章，无校内名额限制，无需指导教师确认。",
+            "edition": "2026",
+            "scope": "global",
+            "value_kind": "not_applicable"
+          }
+        ]
+      }
+    }
+  },
+  "approved_sources": [
+    {
+      "competition_id": "fictional-student-v2",
+      "edition": "2026",
+      "scope": "global",
+      "url": "https://contest.example.invalid/2026/notice",
+      "source_type": "official",
+      "approved_by": "fixture:B-synthetic-approval-not-real"
+    }
+  ],
+  "snapshots": [
+    {
+      "url": "https://contest.example.invalid/2026/notice",
+      "text": "离线虚构示例，不对应真实赛事。\n\n赛事名称：虚构学生创意赛\n\n届次年份：2026\n\n赛道组别：软件创意组\n\n主办方：虚构竞赛组委会\n\n官方通知链接：https://contest.example.invalid/2026/notice\n\n参赛资格：全国高校在读本科生；不接受研究生参赛。\n\n参赛形式：团队参赛。\n\n组队规则：每队2至4人，可跨校，须指定队长1名，无需指导教师。\n\n报名开始日期：2026-10-20\n\n报名截止日期：2026-11-10\n\n校内截止日期：本赛事由个人直接报名，无校内报名环节。\n\n比赛任务：制作一款帮助学生规划学习的应用。\n\n提交成果：提交源代码、说明文档和3分钟演示视频。\n\n作品提交截止日期：2026-11-20\n\n参赛方式：报名、初赛、决赛和答辩均在线上完成。\n\n比赛地点：本赛事全程线上，无需到场。\n\n报名费用：每队0元人民币。\n\n后续必缴费用：赛事各阶段均不收取其他必缴费用。\n\n报名方式：队长在线注册并填写全队信息。\n\n官方报名入口：https://contest.example.invalid/2026/register\n\n报名材料：全体队员学籍证明和队长联系方式。\n\n学校及教师手续：本赛事无需学校推荐、审核、签字或盖章，无校内名额限制，无需指导教师确认。",
+      "retrieved_at": "2026-10-22T12:00:00+08:00"
+    }
+  ]
+}

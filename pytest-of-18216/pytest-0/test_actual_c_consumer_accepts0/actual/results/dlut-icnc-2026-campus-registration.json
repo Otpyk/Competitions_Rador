@@ -1,0 +1,1416 @@
+{
+  "data_kind": "real_candidate_frozen_policy_verification",
+  "notice": "B正式策略与来源审批；无法由保守原文规则确认的内容保留待确认。未执行补搜。",
+  "verification": {
+    "competition_id": "dlut-icnc-2026-campus-registration",
+    "status": "pending",
+    "fields": {
+      "competition_name": {
+        "field": "competition_name",
+        "status": "pending",
+        "original_value": "中国国际大学生创新大赛（2026）",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "dlut-2026-competition_name-1": [
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "repair_extraction",
+        "action_reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "source_urls": [
+          "https://chuangxin.dlut.edu.cn/info/1018/16747.htm"
+        ]
+      },
+      "competition_edition": {
+        "field": "competition_edition",
+        "status": "pending",
+        "original_value": "2026",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "dlut-2026-competition_edition-1": [
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "repair_extraction",
+        "action_reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "source_urls": [
+          "https://chuangxin.dlut.edu.cn/info/1018/16747.htm"
+        ]
+      },
+      "track": {
+        "field": "track",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "dlut-2026-track-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:大连理工大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://chuangxin.dlut.edu.cn/info/1018/16747.htm"
+        ]
+      },
+      "organizer": {
+        "field": "organizer",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "dlut-2026-organizer-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:大连理工大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://chuangxin.dlut.edu.cn/info/1018/16747.htm"
+        ]
+      },
+      "official_url": {
+        "field": "official_url",
+        "status": "pending",
+        "original_value": "https://chuangxin.dlut.edu.cn/info/1018/16747.htm",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "dlut-2026-official_url-1": [
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:大连理工大学",
+        "next_action": "repair_extraction",
+        "action_reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "source_urls": [
+          "https://chuangxin.dlut.edu.cn/info/1018/16747.htm"
+        ]
+      },
+      "eligibility": {
+        "field": "eligibility",
+        "status": "pending",
+        "original_value": "二、报名对象\n各类参赛项目均应在大赛官网（全国大学生创业服务网https://cy.ncss.cn/，简称\"大创网\"）报名系统完成报名，方可视为参赛成功。\n其中，高教主赛道国际参赛项目在全球青年创新领袖共同体促进会网站（https://www.pilcchina.org/）\"主赛道国际项目报名入口\"完成报名。\n项目团队请在报名前仔细阅读\"学生操作手册\"（见附件）。\n\n三、报名要求\n1.一个项目只能在一个赛道报名参赛。校内选拔赛期间在多个赛道参赛的，如若获奖，仅保留一项奖励；应按照最终奖项所在赛道组别报名。\n2.参赛学生在1个赛道最多参与1个项目，以报名系统设定的校验规则为准。\n3.项目的唯一性以负责人作为认定标准。\n4.项目团队人数应当在3-15人，不足3人的可邀请其他成员参与。\n5.未成功报名的项目不能生成各级获奖证书。\n6.各赛道组别的项目的获奖信息以该赛道组别评审开始时，指定竞赛平台上的信息为准，后续更改无效。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "dlut-2026-eligibility-1": [
+            "direct_support_not_confirmed",
+            "unsupported_eligibility_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:大连理工大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://chuangxin.dlut.edu.cn/info/1018/16747.htm"
+        ]
+      },
+      "participation_mode": {
+        "field": "participation_mode",
+        "status": "pending",
+        "original_value": "团队",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "dlut-2026-participation_mode-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:大连理工大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://chuangxin.dlut.edu.cn/info/1018/16747.htm"
+        ]
+      },
+      "team_rules": {
+        "field": "team_rules",
+        "status": "pending",
+        "original_value": "三、报名要求\n1.一个项目只能在一个赛道报名参赛。校内选拔赛期间在多个赛道参赛的，如若获奖，仅保留一项奖励；应按照最终奖项所在赛道组别报名。\n2.参赛学生在1个赛道最多参与1个项目，以报名系统设定的校验规则为准。\n3.项目的唯一性以负责人作为认定标准。\n4.项目团队人数应当在3-15人，不足3人的可邀请其他成员参与。\n5.未成功报名的项目不能生成各级获奖证书。\n6.各赛道组别的项目的获奖信息以该赛道组别评审开始时，指定竞赛平台上的信息为准，后续更改无效。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "dlut-2026-team_rules-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:大连理工大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://chuangxin.dlut.edu.cn/info/1018/16747.htm"
+        ]
+      },
+      "registration_start": {
+        "field": "registration_start",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "dlut-2026-registration_start-1": [
+            "invalid_claim_value",
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:大连理工大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://chuangxin.dlut.edu.cn/info/1018/16747.htm"
+        ]
+      },
+      "registration_deadline": {
+        "field": "registration_deadline",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "campus_deadline": {
+        "field": "campus_deadline",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "dlut-2026-campus_deadline-1": [
+            "invalid_claim_value",
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:大连理工大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://chuangxin.dlut.edu.cn/info/1018/16747.htm"
+        ]
+      },
+      "task_description": {
+        "field": "task_description",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "deliverables": {
+        "field": "deliverables",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "submission_deadline": {
+        "field": "submission_deadline",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "attendance_mode": {
+        "field": "attendance_mode",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "venue": {
+        "field": "venue",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "registration_fee": {
+        "field": "registration_fee",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "mandatory_fees": {
+        "field": "mandatory_fees",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "registration_method": {
+        "field": "registration_method",
+        "status": "pending",
+        "original_value": "二、报名对象\n各类参赛项目均应在大赛官网（全国大学生创业服务网https://cy.ncss.cn/，简称\"大创网\"）报名系统完成报名，方可视为参赛成功。\n其中，高教主赛道国际参赛项目在全球青年创新领袖共同体促进会网站（https://www.pilcchina.org/）\"主赛道国际项目报名入口\"完成报名。\n项目团队请在报名前仔细阅读\"学生操作手册\"（见附件）。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "dlut-2026-registration_method-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:大连理工大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://chuangxin.dlut.edu.cn/info/1018/16747.htm"
+        ]
+      },
+      "registration_url": {
+        "field": "registration_url",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "dlut-2026-registration_url-1": [
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph",
+            "insufficient_source_type"
+          ],
+          "dlut-2026-registration_url-2": [
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:大连理工大学",
+        "next_action": "repair_extraction",
+        "action_reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "source_urls": [
+          "https://chuangxin.dlut.edu.cn/info/1018/16747.htm"
+        ]
+      },
+      "registration_materials": {
+        "field": "registration_materials",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "dlut-2026-registration_materials-1": [
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:大连理工大学",
+        "next_action": "repair_extraction",
+        "action_reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "source_urls": [
+          "https://chuangxin.dlut.edu.cn/info/1018/16747.htm"
+        ]
+      },
+      "institutional_requirements": {
+        "field": "institutional_requirements",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:大连理工大学",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "awards": {
+        "field": "awards",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "dlut-2026-awards-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": false,
+        "requirement_reasons": [
+          "拓展项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:大连理工大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://chuangxin.dlut.edu.cn/info/1018/16747.htm"
+        ]
+      },
+      "work_rules": {
+        "field": "work_rules",
+        "status": "pending",
+        "original_value": "三、报名要求\n1.一个项目只能在一个赛道报名参赛。校内选拔赛期间在多个赛道参赛的，如若获奖，仅保留一项奖励；应按照最终奖项所在赛道组别报名。\n2.参赛学生在1个赛道最多参与1个项目，以报名系统设定的校验规则为准。\n3.项目的唯一性以负责人作为认定标准。\n4.项目团队人数应当在3-15人，不足3人的可邀请其他成员参与。\n5.未成功报名的项目不能生成各级获奖证书。\n6.各赛道组别的项目的获奖信息以该赛道组别评审开始时，指定竞赛平台上的信息为准，后续更改无效。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "dlut-2026-work_rules-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": false,
+        "requirement_reasons": [
+          "拓展项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:大连理工大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://chuangxin.dlut.edu.cn/info/1018/16747.htm"
+        ]
+      },
+      "preparation_resources": {
+        "field": "preparation_resources",
+        "status": "pending",
+        "original_value": "学生操作手册2026.pdf",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "dlut-2026-preparation_resources-1": [
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph",
+            "insufficient_source_type"
+          ],
+          "dlut-2026-preparation_resources-2": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": false,
+        "requirement_reasons": [
+          "拓展项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:大连理工大学",
+        "next_action": "repair_extraction",
+        "action_reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "source_urls": [
+          "https://chuangxin.dlut.edu.cn/info/1018/16747.htm"
+        ]
+      },
+      "contacts": {
+        "field": "contacts",
+        "status": "pending",
+        "original_value": "四、交流渠道\n也可关注大赛官方微信公众号查看\"大赛报名-常见问题\"及\"大赛咨询-在线咨询\"。\n因参赛规则限制及学籍信息异常导致无法正常报名的，请联系大赛官方微信公众号及\"学信网\"协助解决。\n针对报名中出现的其他问题，项目团队可联系校内各通知（推荐）渠道。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "dlut-2026-contacts-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence"
+          ]
+        },
+        "required": false,
+        "requirement_reasons": [
+          "拓展项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:大连理工大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://chuangxin.dlut.edu.cn/info/1018/16747.htm"
+        ]
+      }
+    },
+    "missing_fields": [
+      "track",
+      "organizer",
+      "registration_start",
+      "registration_deadline",
+      "campus_deadline",
+      "task_description",
+      "deliverables",
+      "submission_deadline",
+      "attendance_mode",
+      "venue",
+      "registration_fee",
+      "mandatory_fees",
+      "registration_url",
+      "registration_materials",
+      "institutional_requirements",
+      "awards"
+    ],
+    "unresolved_fields": [
+      "competition_name",
+      "competition_edition",
+      "track",
+      "organizer",
+      "official_url",
+      "eligibility",
+      "participation_mode",
+      "team_rules",
+      "registration_start",
+      "registration_deadline",
+      "campus_deadline",
+      "task_description",
+      "deliverables",
+      "submission_deadline",
+      "attendance_mode",
+      "venue",
+      "registration_fee",
+      "mandatory_fees",
+      "registration_method",
+      "registration_url",
+      "registration_materials",
+      "institutional_requirements"
+    ],
+    "coverage": 0.0,
+    "required_fields": [
+      "competition_name",
+      "competition_edition",
+      "track",
+      "organizer",
+      "official_url",
+      "eligibility",
+      "participation_mode",
+      "team_rules",
+      "registration_start",
+      "registration_deadline",
+      "campus_deadline",
+      "task_description",
+      "deliverables",
+      "submission_deadline",
+      "attendance_mode",
+      "venue",
+      "registration_fee",
+      "mandatory_fees",
+      "registration_method",
+      "registration_url",
+      "registration_materials",
+      "institutional_requirements"
+    ],
+    "promoted_fields": [],
+    "optional_unresolved_fields": [
+      "awards",
+      "work_rules",
+      "preparation_resources",
+      "contacts"
+    ],
+    "optional_conflict_fields": [],
+    "unrecognized_fields": [],
+    "verified_at": "2026-10-28T15:49:07.699719+00:00",
+    "consistency_issues": [],
+    "verified_fields": {},
+    "not_applicable_fields": {},
+    "status_scope": "required_fields_only",
+    "action_items": [
+      {
+        "field": "competition_name",
+        "label": "赛事名称",
+        "action": "repair_extraction",
+        "action_label": "修正抽取结果",
+        "owner": "C",
+        "reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://chuangxin.dlut.edu.cn/info/1018/16747.htm"
+        ],
+        "candidate_evidence_refs": [
+          "dlut-2026-competition_name-1"
+        ]
+      },
+      {
+        "field": "competition_edition",
+        "label": "届次年份",
+        "action": "repair_extraction",
+        "action_label": "修正抽取结果",
+        "owner": "C",
+        "reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://chuangxin.dlut.edu.cn/info/1018/16747.htm"
+        ],
+        "candidate_evidence_refs": [
+          "dlut-2026-competition_edition-1"
+        ]
+      },
+      {
+        "field": "track",
+        "label": "赛道组别",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:大连理工大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://chuangxin.dlut.edu.cn/info/1018/16747.htm"
+        ],
+        "candidate_evidence_refs": [
+          "dlut-2026-track-1"
+        ]
+      },
+      {
+        "field": "organizer",
+        "label": "主办方",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:大连理工大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://chuangxin.dlut.edu.cn/info/1018/16747.htm"
+        ],
+        "candidate_evidence_refs": [
+          "dlut-2026-organizer-1"
+        ]
+      },
+      {
+        "field": "official_url",
+        "label": "官方通知链接",
+        "action": "repair_extraction",
+        "action_label": "修正抽取结果",
+        "owner": "C",
+        "reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "scope": "campus:大连理工大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://chuangxin.dlut.edu.cn/info/1018/16747.htm"
+        ],
+        "candidate_evidence_refs": [
+          "dlut-2026-official_url-1"
+        ]
+      },
+      {
+        "field": "eligibility",
+        "label": "参赛资格",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:大连理工大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://chuangxin.dlut.edu.cn/info/1018/16747.htm"
+        ],
+        "candidate_evidence_refs": [
+          "dlut-2026-eligibility-1"
+        ]
+      },
+      {
+        "field": "participation_mode",
+        "label": "参赛形式",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:大连理工大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://chuangxin.dlut.edu.cn/info/1018/16747.htm"
+        ],
+        "candidate_evidence_refs": [
+          "dlut-2026-participation_mode-1"
+        ]
+      },
+      {
+        "field": "team_rules",
+        "label": "组队规则",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:大连理工大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://chuangxin.dlut.edu.cn/info/1018/16747.htm"
+        ],
+        "candidate_evidence_refs": [
+          "dlut-2026-team_rules-1"
+        ]
+      },
+      {
+        "field": "registration_start",
+        "label": "报名开始日期",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:大连理工大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://chuangxin.dlut.edu.cn/info/1018/16747.htm"
+        ],
+        "candidate_evidence_refs": [
+          "dlut-2026-registration_start-1"
+        ]
+      },
+      {
+        "field": "registration_deadline",
+        "label": "报名截止日期",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "campus_deadline",
+        "label": "校内截止日期",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:大连理工大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://chuangxin.dlut.edu.cn/info/1018/16747.htm"
+        ],
+        "candidate_evidence_refs": [
+          "dlut-2026-campus_deadline-1"
+        ]
+      },
+      {
+        "field": "task_description",
+        "label": "比赛任务",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "deliverables",
+        "label": "提交成果",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "submission_deadline",
+        "label": "作品提交截止日期",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "attendance_mode",
+        "label": "参赛方式",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "venue",
+        "label": "比赛地点",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "registration_fee",
+        "label": "报名费用",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "mandatory_fees",
+        "label": "后续必缴费用",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "registration_method",
+        "label": "报名方式",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:大连理工大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://chuangxin.dlut.edu.cn/info/1018/16747.htm"
+        ],
+        "candidate_evidence_refs": [
+          "dlut-2026-registration_method-1"
+        ]
+      },
+      {
+        "field": "registration_url",
+        "label": "官方报名入口",
+        "action": "repair_extraction",
+        "action_label": "修正抽取结果",
+        "owner": "C",
+        "reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "scope": "campus:大连理工大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://chuangxin.dlut.edu.cn/info/1018/16747.htm"
+        ],
+        "candidate_evidence_refs": [
+          "dlut-2026-registration_url-1",
+          "dlut-2026-registration_url-2"
+        ]
+      },
+      {
+        "field": "registration_materials",
+        "label": "报名材料",
+        "action": "repair_extraction",
+        "action_label": "修正抽取结果",
+        "owner": "C",
+        "reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "scope": "campus:大连理工大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://chuangxin.dlut.edu.cn/info/1018/16747.htm"
+        ],
+        "candidate_evidence_refs": [
+          "dlut-2026-registration_materials-1"
+        ]
+      },
+      {
+        "field": "institutional_requirements",
+        "label": "学校及教师手续",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "campus:大连理工大学",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      }
+    ]
+  },
+  "requests": [
+    {
+      "action": "search",
+      "competition_id": "dlut-icnc-2026-campus-registration",
+      "contest_name": "中国国际大学生创新大赛（2026）",
+      "edition": "2026",
+      "target_fields": [
+        "registration_deadline"
+      ],
+      "scope": "global",
+      "query": "中国国际大学生创新大赛（2026） 2026 报名截止日期 报名时间 官方通知",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    },
+    {
+      "action": "search",
+      "competition_id": "dlut-icnc-2026-campus-registration",
+      "contest_name": "中国国际大学生创新大赛（2026）",
+      "edition": "2026",
+      "target_fields": [
+        "task_description"
+      ],
+      "scope": "global",
+      "query": "中国国际大学生创新大赛（2026） 2026 竞赛任务 赛题 要求",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    },
+    {
+      "action": "search",
+      "competition_id": "dlut-icnc-2026-campus-registration",
+      "contest_name": "中国国际大学生创新大赛（2026）",
+      "edition": "2026",
+      "target_fields": [
+        "deliverables"
+      ],
+      "scope": "global",
+      "query": "中国国际大学生创新大赛（2026） 2026 提交 作品 材料 成果",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    },
+    {
+      "action": "search",
+      "competition_id": "dlut-icnc-2026-campus-registration",
+      "contest_name": "中国国际大学生创新大赛（2026）",
+      "edition": "2026",
+      "target_fields": [
+        "submission_deadline"
+      ],
+      "scope": "global",
+      "query": "中国国际大学生创新大赛（2026） 2026 作品 提交 截止日期",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    },
+    {
+      "action": "search",
+      "competition_id": "dlut-icnc-2026-campus-registration",
+      "contest_name": "中国国际大学生创新大赛（2026）",
+      "edition": "2026",
+      "target_fields": [
+        "attendance_mode"
+      ],
+      "scope": "global",
+      "query": "中国国际大学生创新大赛（2026） 2026 初赛 决赛 答辩 线上 线下 到场",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    },
+    {
+      "action": "search",
+      "competition_id": "dlut-icnc-2026-campus-registration",
+      "contest_name": "中国国际大学生创新大赛（2026）",
+      "edition": "2026",
+      "target_fields": [
+        "venue"
+      ],
+      "scope": "global",
+      "query": "中国国际大学生创新大赛（2026） 2026 比赛地点 决赛城市 到场",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    },
+    {
+      "action": "search",
+      "competition_id": "dlut-icnc-2026-campus-registration",
+      "contest_name": "中国国际大学生创新大赛（2026）",
+      "edition": "2026",
+      "target_fields": [
+        "registration_fee"
+      ],
+      "scope": "global",
+      "query": "中国国际大学生创新大赛（2026） 2026 报名费 收费标准 每人 每队",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    },
+    {
+      "action": "search",
+      "competition_id": "dlut-icnc-2026-campus-registration",
+      "contest_name": "中国国际大学生创新大赛（2026）",
+      "edition": "2026",
+      "target_fields": [
+        "mandatory_fees"
+      ],
+      "scope": "global",
+      "query": "中国国际大学生创新大赛（2026） 2026 复赛 决赛 必缴 费用 收费",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    },
+    {
+      "action": "search",
+      "competition_id": "dlut-icnc-2026-campus-registration",
+      "contest_name": "中国国际大学生创新大赛（2026）",
+      "edition": "2026",
+      "target_fields": [
+        "institutional_requirements"
+      ],
+      "scope": "campus:大连理工大学",
+      "query": "中国国际大学生创新大赛（2026） 2026 campus:大连理工大学 学校审核 导师 签字 盖章 名额",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    }
+  ],
+  "source_reviews": [
+    {
+      "evidence_id": "dlut-2026-competition_name-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "dlut-2026-competition_edition-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "dlut-2026-track-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "dlut-2026-organizer-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "dlut-2026-official_url-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "dlut-2026-eligibility-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_eligibility_sentence"
+      ]
+    },
+    {
+      "evidence_id": "dlut-2026-participation_mode-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "dlut-2026-team_rules-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "dlut-2026-registration_start-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "dlut-2026-campus_deadline-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "dlut-2026-registration_method-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "dlut-2026-registration_url-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "dlut-2026-registration_url-2",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "dlut-2026-registration_materials-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "dlut-2026-awards-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "dlut-2026-work_rules-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "dlut-2026-preparation_resources-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "dlut-2026-preparation_resources-2",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "dlut-2026-contacts-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    }
+  ]
+}

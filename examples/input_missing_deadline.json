@@ -1,0 +1,35 @@
+{
+  "id": "fictional-ai-2026",
+  "name": "虚构校园 AI 创意赛",
+  "edition": "2026",
+  "scope": "global",
+  "registration_deadline": {"value": null, "evidence": [], "status": "missing"},
+  "eligibility": {
+    "value": "全国高校在读本科生可以参加。",
+    "evidence": [{
+      "id": "eligibility-1",
+      "value": "全国高校在读本科生可以参加。",
+      "url": "https://contest.example.invalid/2026/rules",
+      "quote": "2026 届虚构校园 AI 创意赛：全国高校在读本科生可以参加。",
+      "edition": "2026",
+      "source_type": "official",
+      "source_verified": true,
+      "support": "supported",
+      "reviewed_by": "fixture:synthetic-annotation-not-a-real-source"
+    }]
+  },
+  "registration_url": {
+    "value": "https://contest.example.invalid/2026/register",
+    "evidence": [{
+      "id": "registration-url-1",
+      "value": "https://contest.example.invalid/2026/register",
+      "url": "https://contest.example.invalid/2026/rules",
+      "quote": "2026 届虚构赛事报名入口：https://contest.example.invalid/2026/register",
+      "edition": "2026",
+      "source_type": "official",
+      "source_verified": true,
+      "support": "supported",
+      "reviewed_by": "fixture:synthetic-annotation-not-a-real-source"
+    }]
+  }
+}

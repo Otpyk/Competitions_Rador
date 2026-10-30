@@ -1,0 +1,1373 @@
+{
+  "source": "华南师范大学人工智能学院推荐竞赛列表（xlsx）",
+  "note": "仅含表内事实（名称/类别/奖项）；截止/资格/官网/主办方由搜索层补充，未取得则保持待查询，不编造。兴趣标签由名称关键词派生。",
+  "count": 71,
+  "competitions": [
+    {
+      "id": "comp-a-001",
+      "name": "中国国际大学生创新大赛（仅高教主赛道）",
+      "level": "A",
+      "awards": {
+        "first": "金奖",
+        "second": "银奖",
+        "third": "铜奖"
+      },
+      "tags": [
+        "创新创业"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-a-002",
+      "name": "“挑战杯”全国大学生课外学术科技作品竞赛（国赛）“大挑”",
+      "level": "A",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "创新创业"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-a-003",
+      "name": "“挑战杯”全国大学生创业计划大赛（国赛）“小挑”",
+      "level": "A",
+      "awards": {
+        "first": "金奖",
+        "second": "银奖",
+        "third": "铜奖"
+      },
+      "tags": [
+        "创新创业"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-a-004",
+      "name": "ICPC国际大学生程序设计竞赛（区域赛，决赛）",
+      "level": "A",
+      "awards": {
+        "first": "金奖",
+        "second": "银奖",
+        "third": "铜奖"
+      },
+      "tags": [
+        "编程"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-a-005",
+      "name": "ASC世界大学生超级计算机竞赛",
+      "level": "A",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "入围决赛"
+      },
+      "tags": [
+        "电子硬件"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-a-006",
+      "name": "全国大学生计算机系统能力大赛【操作系统设计大赛(2个赛道)、编译系统设计赛(3个赛道不含外卡赛道)、数据库管理系统设计赛、0ceanBase数据库大赛、CPU设计大赛团队赛和个人赛】",
+      "level": "A",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "计算机"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-a-007",
+      "name": "中国高校计算机大赛国赛①大数据挑战赛、②团体程序设计天梯赛（个人奖）③人工智能创意赛",
+      "level": "A",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "人工智能",
+        "编程",
+        "计算机"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-a-008",
+      "name": "华为ICT大赛（仅创新赛赛道）",
+      "level": "A",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "计算机",
+        "信息通信"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-a-009",
+      "name": "百度之星-程序设计大赛（国赛）",
+      "level": "A",
+      "awards": {
+        "first": "金奖",
+        "second": "银奖",
+        "third": "铜奖"
+      },
+      "tags": [
+        "编程"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-a-010",
+      "name": "CCPC全国大学生程序设计竞赛（区域赛，女生赛，决赛）",
+      "level": "A",
+      "awards": {
+        "first": "金奖",
+        "second": "银奖",
+        "third": "铜奖"
+      },
+      "tags": [
+        "编程"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-a-011",
+      "name": "全国大学生数学建模竞赛（国赛）",
+      "level": "A",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "数学建模"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-a-012",
+      "name": "美国大学生数学建模比赛",
+      "level": "A",
+      "awards": {
+        "first": "O奖",
+        "second": "F奖",
+        "third": "M奖"
+      },
+      "tags": [
+        "数学建模"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-b-013",
+      "name": "蓝桥杯全国软件和信息技术专业人才大赛（国赛）",
+      "level": "B",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "编程"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-b-014",
+      "name": "全国大学生信息安全竞赛（国赛）",
+      "level": "B",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "信息安全"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-b-015",
+      "name": "中国机器人大赛暨RoboCup机器人世界杯中国赛",
+      "level": "B",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "机器人"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-b-016",
+      "name": "“中国软件杯”大学生软件设计大赛",
+      "level": "B",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "编程"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-b-017",
+      "name": "睿抗机器人开发者大赛（RAICOM）",
+      "level": "B",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "人工智能",
+        "机器人"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-b-018",
+      "name": "中国高校计算机大赛国赛①移动应用创新赛、②网络技术挑战赛",
+      "level": "B",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "计算机"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-b-019",
+      "name": "中国机器人及人工智能大赛",
+      "level": "B",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "人工智能",
+        "机器人"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-b-020",
+      "name": "中国大学生嵌入式芯片与系统设计竞赛",
+      "level": "B",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "电子硬件"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-b-021",
+      "name": "中国高校智能机器人创意大赛",
+      "level": "B",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "机器人"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-b-022",
+      "name": "全国师范院校师范生教学技能竞赛（国赛）",
+      "level": "B",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "教育"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-b-023",
+      "name": "全国大学生物联网设计竞赛",
+      "level": "B",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "电子硬件"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-b-024",
+      "name": "全国大学生信息安全与对抗技术竞赛",
+      "level": "B",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "信息安全"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-b-025",
+      "name": "全球校园人工智能算法精英大赛（国赛）",
+      "level": "B",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "人工智能"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-b-026",
+      "name": "全国大学生电子设计竞赛（国赛）",
+      "level": "B",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "电子硬件"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-b-027",
+      "name": "全国大学生智能汽车竞赛（国赛）",
+      "level": "B",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "机器人"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-b-028",
+      "name": "全国大学生机器人大赛（RoboMaster，RoboCon国赛）",
+      "level": "B",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "机器人"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-b-029",
+      "name": "中国大学生计算机设计大赛（国赛）",
+      "level": "B",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "计算机"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-b-030",
+      "name": "全国大学生数学竞赛（国赛/复赛）",
+      "level": "B",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "数学"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-b-031",
+      "name": "华为ICT大赛（创新赛赛道之外的其余赛道）",
+      "level": "B",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "计算机",
+        "信息通信"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-b-032",
+      "name": "中国软件开源创新大赛",
+      "level": "B",
+      "awards": {
+        "first": "特等奖",
+        "second": "一等奖",
+        "third": "二等奖"
+      },
+      "tags": [
+        "编程",
+        "创新创业"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-b-033",
+      "name": "网鼎杯网络安全大赛",
+      "level": "B",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "信息安全"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-b-034",
+      "name": "全国高校网安联赛总决赛（X-NUCA）",
+      "level": "B",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "信息安全"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-b-035",
+      "name": "“强网杯”全国网络安全挑战赛",
+      "level": "B",
+      "awards": {
+        "first": "特等奖",
+        "second": "一等奖",
+        "third": "二等奖"
+      },
+      "tags": [
+        "信息安全"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-b-036",
+      "name": "“iTeach”全国大学生数字化教育应用创新大赛",
+      "level": "B",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "创新创业"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-b-037",
+      "name": "全国大学生职业规划大赛",
+      "level": "B",
+      "awards": {
+        "first": "金奖",
+        "second": "银奖",
+        "third": "铜奖"
+      },
+      "tags": [
+        "创新创业"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-c-038",
+      "name": "中国国际大学生创新大赛（省赛）",
+      "level": "C",
+      "awards": {
+        "first": "金奖",
+        "second": "银奖",
+        "third": "铜奖"
+      },
+      "tags": [
+        "创新创业"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-c-039",
+      "name": "“挑战杯”全国大学生课外学术科技作品竞赛（省赛）",
+      "level": "C",
+      "awards": {
+        "first": "特等奖",
+        "second": "一等奖",
+        "third": "二等奖"
+      },
+      "tags": [
+        "创新创业"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-c-040",
+      "name": "“挑战杯”全国大学生创业计划大赛（省赛）",
+      "level": "C",
+      "awards": {
+        "first": "金奖",
+        "second": "银奖",
+        "third": "铜奖"
+      },
+      "tags": [
+        "创新创业"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-c-041",
+      "name": "全国大学生职业规划大赛（省赛）",
+      "level": "C",
+      "awards": {
+        "first": "金奖",
+        "second": "银奖",
+        "third": "铜奖"
+      },
+      "tags": [
+        "创新创业"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-c-042",
+      "name": "CCPC全国大学生程序设计竞赛（省赛）",
+      "level": "C",
+      "awards": {
+        "first": "（参考上面A、B类的奖项设置）",
+        "second": null,
+        "third": null
+      },
+      "tags": [
+        "编程"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-c-043",
+      "name": "全国大学生数学建模竞赛（省赛）",
+      "level": "C",
+      "awards": {
+        "first": null,
+        "second": null,
+        "third": null
+      },
+      "tags": [
+        "数学建模"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-c-044",
+      "name": "全国大学生电子设计竞赛（省赛）",
+      "level": "C",
+      "awards": {
+        "first": null,
+        "second": null,
+        "third": null
+      },
+      "tags": [
+        "电子硬件"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-c-045",
+      "name": "全国大学生智能汽车竞赛（省赛）",
+      "level": "C",
+      "awards": {
+        "first": null,
+        "second": null,
+        "third": null
+      },
+      "tags": [
+        "机器人"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-c-046",
+      "name": "全国大学生机器人大赛（RoboMaster，RoboCon）（省赛）",
+      "level": "C",
+      "awards": {
+        "first": null,
+        "second": null,
+        "third": null
+      },
+      "tags": [
+        "机器人"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-c-047",
+      "name": "中国大学生计算机设计大赛（省赛）",
+      "level": "C",
+      "awards": {
+        "first": null,
+        "second": null,
+        "third": null
+      },
+      "tags": [
+        "计算机"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-c-048",
+      "name": "中国高校计算机大赛省赛①大数据挑战赛、②团体程序设计天梯赛（个人奖）③移动应用创新赛、④网络技术挑战赛、⑤人工智能创意赛",
+      "level": "C",
+      "awards": {
+        "first": null,
+        "second": null,
+        "third": null
+      },
+      "tags": [
+        "人工智能",
+        "编程",
+        "计算机"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-c-049",
+      "name": "全国大学生信息安全竞赛（省赛/区域赛）",
+      "level": "C",
+      "awards": {
+        "first": null,
+        "second": null,
+        "third": null
+      },
+      "tags": [
+        "信息安全"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-c-050",
+      "name": "中国机器人大赛暨RoboCup机器人世界杯中国赛（省赛）",
+      "level": "C",
+      "awards": {
+        "first": null,
+        "second": null,
+        "third": null
+      },
+      "tags": [
+        "机器人"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-c-051",
+      "name": "百度之星-程序设计大赛（省赛）",
+      "level": "C",
+      "awards": {
+        "first": null,
+        "second": null,
+        "third": null
+      },
+      "tags": [
+        "编程"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-c-052",
+      "name": "全球校园人工智能算法精英大赛（省赛）",
+      "level": "C",
+      "awards": {
+        "first": null,
+        "second": null,
+        "third": null
+      },
+      "tags": [
+        "人工智能"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-c-053",
+      "name": "蓝桥杯全国软件和信息技术专业人才大赛（省赛）",
+      "level": "C",
+      "awards": {
+        "first": null,
+        "second": null,
+        "third": null
+      },
+      "tags": [
+        "编程"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-c-054",
+      "name": "中国机器人及人工智能大赛（省赛）",
+      "level": "C",
+      "awards": {
+        "first": null,
+        "second": null,
+        "third": null
+      },
+      "tags": [
+        "人工智能",
+        "机器人"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-c-055",
+      "name": "睿抗机器人开发者大赛（RAICOM）（省赛）",
+      "level": "C",
+      "awards": {
+        "first": null,
+        "second": null,
+        "third": null
+      },
+      "tags": [
+        "人工智能",
+        "机器人"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-c-056",
+      "name": "华为ICT大赛（省赛）",
+      "level": "C",
+      "awards": {
+        "first": null,
+        "second": null,
+        "third": null
+      },
+      "tags": [
+        "计算机",
+        "信息通信"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-c-057",
+      "name": "中国大学生嵌入式芯片与系统设计竞赛（省赛）",
+      "level": "C",
+      "awards": {
+        "first": null,
+        "second": null,
+        "third": null
+      },
+      "tags": [
+        "电子硬件"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-c-058",
+      "name": "中国高校智能机器人创意大赛（省赛）",
+      "level": "C",
+      "awards": {
+        "first": null,
+        "second": null,
+        "third": null
+      },
+      "tags": [
+        "机器人"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-c-059",
+      "name": "全国大学生物联网设计竞赛（区域赛）",
+      "level": "C",
+      "awards": {
+        "first": null,
+        "second": null,
+        "third": null
+      },
+      "tags": [
+        "电子硬件"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-c-060",
+      "name": "工业软件应用技术大赛（决赛）",
+      "level": "C",
+      "awards": {
+        "first": null,
+        "second": null,
+        "third": null
+      },
+      "tags": [
+        "编程"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-d-061",
+      "name": "华南师范大学算法与程序设计竞赛",
+      "level": "D",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "编程",
+        "教育"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-d-062",
+      "name": "华南师范大学人工智能算法挑战赛",
+      "level": "D",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "人工智能",
+        "教育"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-d-063",
+      "name": "华南师范大学网络安全技术竞赛新生赛",
+      "level": "D",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "信息安全",
+        "教育"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-d-064",
+      "name": "“挑战杯”全国大学生创业计划大赛（校赛）",
+      "level": "D",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "创新创业"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-d-065",
+      "name": "“挑战杯”学生课外学术科技作品竞赛（校赛）",
+      "level": "D",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "创新创业"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-d-066",
+      "name": "中国国际大学生创新大赛（校赛）",
+      "level": "D",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "创新创业"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-d-067",
+      "name": "华南师范大学大学生数学竞赛（校赛）",
+      "level": "D",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "数学",
+        "教育"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-d-068",
+      "name": "华南师范大学大学生数学建模竞赛",
+      "level": "D",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "数学建模",
+        "教育"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-d-069",
+      "name": "计算机学院“CS杯”算法与程序设计竞赛",
+      "level": "D",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "编程"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-d-070",
+      "name": "计算机学院算法与程序设计新手大赛",
+      "level": "D",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "编程"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    },
+    {
+      "id": "comp-d-071",
+      "name": "计算机学院“金点子”创意征集大赛",
+      "level": "D",
+      "awards": {
+        "first": "一等奖",
+        "second": "二等奖",
+        "third": "三等奖"
+      },
+      "tags": [
+        "综合"
+      ],
+      "deadline": null,
+      "eligibility": null,
+      "official_url": null,
+      "registration_url": null,
+      "organizer": null,
+      "detail_status": "待查询"
+    }
+  ]
+}

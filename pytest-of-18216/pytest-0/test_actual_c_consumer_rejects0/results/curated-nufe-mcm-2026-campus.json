@@ -1,0 +1,1554 @@
+{
+  "data_kind": "real_candidate_frozen_policy_verification",
+  "notice": "B正式策略与来源审批；无法由保守原文规则确认的内容保留待确认。未执行补搜。",
+  "verification": {
+    "competition_id": "curated-nufe-mcm-2026-campus",
+    "status": "pending",
+    "fields": {
+      "competition_name": {
+        "field": "competition_name",
+        "status": "pending",
+        "original_value": "全国大学生数学建模竞赛",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "nufe-2026-competition_name-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ]
+      },
+      "competition_edition": {
+        "field": "competition_edition",
+        "status": "pending",
+        "original_value": "2026",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "nufe-2026-competition_edition-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ]
+      },
+      "track": {
+        "field": "track",
+        "status": "pending",
+        "original_value": "本科组",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "nufe-2026-track-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:南京财经大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ]
+      },
+      "organizer": {
+        "field": "organizer",
+        "status": "pending",
+        "original_value": "中国工业与应用数学学会",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "nufe-2026-organizer-1": [
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "repair_extraction",
+        "action_reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ]
+      },
+      "official_url": {
+        "field": "official_url",
+        "status": "verified",
+        "original_value": "https://jwc.nufe.edu.cn/info/1031/18284.htm",
+        "verified_value": "https://jwc.nufe.edu.cn/info/1031/18284.htm",
+        "reasons": [
+          "evidence_policy_satisfied"
+        ],
+        "evidence_ids": [
+          "nufe-2026-official_url-1"
+        ],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": "value",
+        "confirmed_statement": null,
+        "scope": "campus:南京财经大学",
+        "next_action": "none",
+        "action_reason": "已有符合规则的证据。",
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ]
+      },
+      "eligibility": {
+        "field": "eligibility",
+        "status": "pending",
+        "original_value": "三、参赛对象\n竞赛为本科组，3人为一队进行报名，主要面向大二、大三、大四的在校本科生。\n\n四、报名要求\n全国大学生数学建模竞赛为团队竞赛，竞赛过程中需要建立模型、编写程序和撰写论文等竞赛内容，在组建参赛队时要考虑三位参赛队员的专业背景，要求学生需具备扎实的数学知识基础及数学应用能力，至少一位参赛队员熟练掌握计算机编程语言。鼓励跨学院、跨专业组队。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "nufe-2026-eligibility-1": [
+            "direct_support_not_confirmed",
+            "unsupported_eligibility_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:南京财经大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ]
+      },
+      "participation_mode": {
+        "field": "participation_mode",
+        "status": "pending",
+        "original_value": "全国大学生数学建模竞赛为团队竞赛",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "nufe-2026-participation_mode-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:南京财经大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ]
+      },
+      "team_rules": {
+        "field": "team_rules",
+        "status": "pending",
+        "original_value": "三、参赛对象\n竞赛为本科组，3人为一队进行报名，主要面向大二、大三、大四的在校本科生。\n\n四、报名要求\n全国大学生数学建模竞赛为团队竞赛，竞赛过程中需要建立模型、编写程序和撰写论文等竞赛内容，在组建参赛队时要考虑三位参赛队员的专业背景，要求学生需具备扎实的数学知识基础及数学应用能力，至少一位参赛队员熟练掌握计算机编程语言。鼓励跨学院、跨专业组队。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "nufe-2026-team_rules-1": [
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:南京财经大学",
+        "next_action": "repair_extraction",
+        "action_reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ]
+      },
+      "registration_start": {
+        "field": "registration_start",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "nufe-2026-registration_start-1": [
+            "invalid_claim_value",
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ],
+          "nufe-2026-registration_start-2": [
+            "invalid_claim_value",
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:南京财经大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ]
+      },
+      "registration_deadline": {
+        "field": "registration_deadline",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "campus_deadline": {
+        "field": "campus_deadline",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "nufe-2026-campus_deadline-1": [
+            "invalid_claim_value",
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence"
+          ],
+          "nufe-2026-campus_deadline-2": [
+            "invalid_claim_value",
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:南京财经大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ]
+      },
+      "task_description": {
+        "field": "task_description",
+        "status": "pending",
+        "original_value": "四、报名要求\n全国大学生数学建模竞赛为团队竞赛，竞赛过程中需要建立模型、编写程序和撰写论文等竞赛内容，在组建参赛队时要考虑三位参赛队员的专业背景，要求学生需具备扎实的数学知识基础及数学应用能力，至少一位参赛队员熟练掌握计算机编程语言。鼓励跨学院、跨专业组队。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "nufe-2026-task_description-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:南京财经大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ]
+      },
+      "deliverables": {
+        "field": "deliverables",
+        "status": "pending",
+        "original_value": "竞赛形式为网上发布赛题，参赛者自行下载赛题并在上述时间内完成论文，然后在规定时间内通过指定网站提交论文。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "nufe-2026-deliverables-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ]
+      },
+      "submission_deadline": {
+        "field": "submission_deadline",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "nufe-2026-submission_deadline-1": [
+            "invalid_claim_value",
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ]
+      },
+      "attendance_mode": {
+        "field": "attendance_mode",
+        "status": "pending",
+        "original_value": "二、竞赛时间和竞赛形式\n竞赛将于2026年9月10日（周四）18时至9月13日（周日）20时举行。竞赛形式为网上发布赛题，参赛者自行下载赛题并在上述时间内完成论文，然后在规定时间内通过指定网站提交论文。竞赛期间，参赛者可以利用各种资源，包括图书馆、网络资料等，但不得与除本队成员以外的其他任何人进行讨论。赛题将于竞赛开始时（2026年9月10日晚上6：00）发布在全国大学生数学建模竞赛官网（www.mcm.edu.cn）以及中国知网、中国大学生在线、高等教育出版社、中国高校数学建模课程中心等网站。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "nufe-2026-attendance_mode-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ]
+      },
+      "venue": {
+        "field": "venue",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:南京财经大学",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "registration_fee": {
+        "field": "registration_fee",
+        "status": "pending",
+        "original_value": "本次比赛的报名费由参赛学生自付，费用为每队300元人民币。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "nufe-2026-registration_fee-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:南京财经大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ]
+      },
+      "mandatory_fees": {
+        "field": "mandatory_fees",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:南京财经大学",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "registration_method": {
+        "field": "registration_method",
+        "status": "pending",
+        "original_value": "六、报名方式和费用\n有意参加2026年全国大学生数学建模竞赛的同学，通过线上报名参加暑期培训。暑期培训QQ群556822906。培训结束后教练组统一组织正式报名。本次比赛的报名费由参赛学生自付，费用为每队300元人民币。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "nufe-2026-registration_method-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:南京财经大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ]
+      },
+      "registration_url": {
+        "field": "registration_url",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:南京财经大学",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "registration_materials": {
+        "field": "registration_materials",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:南京财经大学",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "institutional_requirements": {
+        "field": "institutional_requirements",
+        "status": "pending",
+        "original_value": "六、报名方式和费用\n有意参加2026年全国大学生数学建模竞赛的同学，通过线上报名参加暑期培训。暑期培训QQ群556822906。培训结束后教练组统一组织正式报名。本次比赛的报名费由参赛学生自付，费用为每队300元人民币。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "nufe-2026-institutional_requirements-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:南京财经大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ]
+      },
+      "schedule": {
+        "field": "schedule",
+        "status": "pending",
+        "original_value": "二、竞赛时间和竞赛形式\n竞赛将于2026年9月10日（周四）18时至9月13日（周日）20时举行。竞赛形式为网上发布赛题，参赛者自行下载赛题并在上述时间内完成论文，然后在规定时间内通过指定网站提交论文。竞赛期间，参赛者可以利用各种资源，包括图书馆、网络资料等，但不得与除本队成员以外的其他任何人进行讨论。赛题将于竞赛开始时（2026年9月10日晚上6：00）发布在全国大学生数学建模竞赛官网（www.mcm.edu.cn）以及中国知网、中国大学生在线、高等教育出版社、中国高校数学建模课程中心等网站。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "nufe-2026-schedule-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": false,
+        "requirement_reasons": [
+          "拓展项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ]
+      },
+      "awards": {
+        "field": "awards",
+        "status": "pending",
+        "original_value": "七、竞赛奖励\n江苏省赛区设立一、二、三等奖。赛区将在获得省一等奖的参赛队中按照一定规则选拔、确定参加国家级奖项评定的参赛队。国家级奖项为国家一等奖、国家二等奖。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "nufe-2026-awards-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": false,
+        "requirement_reasons": [
+          "拓展项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ]
+      },
+      "technical_requirements": {
+        "field": "technical_requirements",
+        "status": "pending",
+        "original_value": "四、报名要求\n全国大学生数学建模竞赛为团队竞赛，竞赛过程中需要建立模型、编写程序和撰写论文等竞赛内容，在组建参赛队时要考虑三位参赛队员的专业背景，要求学生需具备扎实的数学知识基础及数学应用能力，至少一位参赛队员熟练掌握计算机编程语言。鼓励跨学院、跨专业组队。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "nufe-2026-technical_requirements-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": false,
+        "requirement_reasons": [
+          "拓展项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:南京财经大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ]
+      },
+      "work_rules": {
+        "field": "work_rules",
+        "status": "pending",
+        "original_value": "竞赛期间，参赛者可以利用各种资源，包括图书馆、网络资料等，但不得与除本队成员以外的其他任何人进行讨论。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "nufe-2026-work_rules-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": false,
+        "requirement_reasons": [
+          "拓展项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ]
+      },
+      "preparation_resources": {
+        "field": "preparation_resources",
+        "status": "pending",
+        "original_value": "八、其他事宜\n1.暑期培训计划：2026年7月10日至7月20日，线上培训（具体培训安排见附件）。\n2.竞赛校内负责人：杨老师 13851872396。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "nufe-2026-preparation_resources-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ],
+          "nufe-2026-preparation_resources-2": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": false,
+        "requirement_reasons": [
+          "拓展项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:南京财经大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ]
+      },
+      "expense_details": {
+        "field": "expense_details",
+        "status": "pending",
+        "original_value": "本次比赛的报名费由参赛学生自付，费用为每队300元人民币。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "nufe-2026-expense_details-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": false,
+        "requirement_reasons": [
+          "拓展项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:南京财经大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ]
+      },
+      "contacts": {
+        "field": "contacts",
+        "status": "pending",
+        "original_value": "八、其他事宜\n1.暑期培训计划：2026年7月10日至7月20日，线上培训（具体培训安排见附件）。\n2.竞赛校内负责人：杨老师 13851872396。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "nufe-2026-contacts-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence"
+          ],
+          "nufe-2026-contacts-2": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence"
+          ]
+        },
+        "required": false,
+        "requirement_reasons": [
+          "拓展项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:南京财经大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ]
+      }
+    },
+    "missing_fields": [
+      "registration_start",
+      "registration_deadline",
+      "campus_deadline",
+      "submission_deadline",
+      "venue",
+      "mandatory_fees",
+      "registration_url",
+      "registration_materials"
+    ],
+    "unresolved_fields": [
+      "competition_name",
+      "competition_edition",
+      "track",
+      "organizer",
+      "eligibility",
+      "participation_mode",
+      "team_rules",
+      "registration_start",
+      "registration_deadline",
+      "campus_deadline",
+      "task_description",
+      "deliverables",
+      "submission_deadline",
+      "attendance_mode",
+      "venue",
+      "registration_fee",
+      "mandatory_fees",
+      "registration_method",
+      "registration_url",
+      "registration_materials",
+      "institutional_requirements"
+    ],
+    "coverage": 0.045454545454545456,
+    "required_fields": [
+      "competition_name",
+      "competition_edition",
+      "track",
+      "organizer",
+      "official_url",
+      "eligibility",
+      "participation_mode",
+      "team_rules",
+      "registration_start",
+      "registration_deadline",
+      "campus_deadline",
+      "task_description",
+      "deliverables",
+      "submission_deadline",
+      "attendance_mode",
+      "venue",
+      "registration_fee",
+      "mandatory_fees",
+      "registration_method",
+      "registration_url",
+      "registration_materials",
+      "institutional_requirements"
+    ],
+    "promoted_fields": [],
+    "optional_unresolved_fields": [
+      "schedule",
+      "awards",
+      "technical_requirements",
+      "work_rules",
+      "preparation_resources",
+      "expense_details",
+      "contacts"
+    ],
+    "optional_conflict_fields": [],
+    "unrecognized_fields": [],
+    "verified_at": "2026-10-28T15:49:07.816644+00:00",
+    "consistency_issues": [],
+    "verified_fields": {
+      "official_url": "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+    },
+    "not_applicable_fields": {},
+    "status_scope": "required_fields_only",
+    "action_items": [
+      {
+        "field": "competition_name",
+        "label": "赛事名称",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ],
+        "candidate_evidence_refs": [
+          "nufe-2026-competition_name-1"
+        ]
+      },
+      {
+        "field": "competition_edition",
+        "label": "届次年份",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ],
+        "candidate_evidence_refs": [
+          "nufe-2026-competition_edition-1"
+        ]
+      },
+      {
+        "field": "track",
+        "label": "赛道组别",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:南京财经大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ],
+        "candidate_evidence_refs": [
+          "nufe-2026-track-1"
+        ]
+      },
+      {
+        "field": "organizer",
+        "label": "主办方",
+        "action": "repair_extraction",
+        "action_label": "修正抽取结果",
+        "owner": "C",
+        "reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ],
+        "candidate_evidence_refs": [
+          "nufe-2026-organizer-1"
+        ]
+      },
+      {
+        "field": "eligibility",
+        "label": "参赛资格",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:南京财经大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ],
+        "candidate_evidence_refs": [
+          "nufe-2026-eligibility-1"
+        ]
+      },
+      {
+        "field": "participation_mode",
+        "label": "参赛形式",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:南京财经大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ],
+        "candidate_evidence_refs": [
+          "nufe-2026-participation_mode-1"
+        ]
+      },
+      {
+        "field": "team_rules",
+        "label": "组队规则",
+        "action": "repair_extraction",
+        "action_label": "修正抽取结果",
+        "owner": "C",
+        "reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "scope": "campus:南京财经大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ],
+        "candidate_evidence_refs": [
+          "nufe-2026-team_rules-1"
+        ]
+      },
+      {
+        "field": "registration_start",
+        "label": "报名开始日期",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:南京财经大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ],
+        "candidate_evidence_refs": [
+          "nufe-2026-registration_start-1",
+          "nufe-2026-registration_start-2"
+        ]
+      },
+      {
+        "field": "registration_deadline",
+        "label": "报名截止日期",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "campus_deadline",
+        "label": "校内截止日期",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:南京财经大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ],
+        "candidate_evidence_refs": [
+          "nufe-2026-campus_deadline-1",
+          "nufe-2026-campus_deadline-2"
+        ]
+      },
+      {
+        "field": "task_description",
+        "label": "比赛任务",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:南京财经大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ],
+        "candidate_evidence_refs": [
+          "nufe-2026-task_description-1"
+        ]
+      },
+      {
+        "field": "deliverables",
+        "label": "提交成果",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ],
+        "candidate_evidence_refs": [
+          "nufe-2026-deliverables-1"
+        ]
+      },
+      {
+        "field": "submission_deadline",
+        "label": "作品提交截止日期",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ],
+        "candidate_evidence_refs": [
+          "nufe-2026-submission_deadline-1"
+        ]
+      },
+      {
+        "field": "attendance_mode",
+        "label": "参赛方式",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ],
+        "candidate_evidence_refs": [
+          "nufe-2026-attendance_mode-1"
+        ]
+      },
+      {
+        "field": "venue",
+        "label": "比赛地点",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "campus:南京财经大学",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "registration_fee",
+        "label": "报名费用",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:南京财经大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ],
+        "candidate_evidence_refs": [
+          "nufe-2026-registration_fee-1"
+        ]
+      },
+      {
+        "field": "mandatory_fees",
+        "label": "后续必缴费用",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "campus:南京财经大学",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "registration_method",
+        "label": "报名方式",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:南京财经大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ],
+        "candidate_evidence_refs": [
+          "nufe-2026-registration_method-1"
+        ]
+      },
+      {
+        "field": "registration_url",
+        "label": "官方报名入口",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "campus:南京财经大学",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "registration_materials",
+        "label": "报名材料",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "campus:南京财经大学",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "institutional_requirements",
+        "label": "学校及教师手续",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:南京财经大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://jwc.nufe.edu.cn/info/1031/18284.htm"
+        ],
+        "candidate_evidence_refs": [
+          "nufe-2026-institutional_requirements-1"
+        ]
+      }
+    ]
+  },
+  "requests": [
+    {
+      "action": "search",
+      "competition_id": "curated-nufe-mcm-2026-campus",
+      "contest_name": "全国大学生数学建模竞赛",
+      "edition": "2026",
+      "target_fields": [
+        "registration_deadline"
+      ],
+      "scope": "global",
+      "query": "全国大学生数学建模竞赛 2026 报名截止日期 报名时间 官方通知",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    },
+    {
+      "action": "search",
+      "competition_id": "curated-nufe-mcm-2026-campus",
+      "contest_name": "全国大学生数学建模竞赛",
+      "edition": "2026",
+      "target_fields": [
+        "venue"
+      ],
+      "scope": "campus:南京财经大学",
+      "query": "全国大学生数学建模竞赛 2026 campus:南京财经大学 比赛地点 决赛城市 到场",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    },
+    {
+      "action": "search",
+      "competition_id": "curated-nufe-mcm-2026-campus",
+      "contest_name": "全国大学生数学建模竞赛",
+      "edition": "2026",
+      "target_fields": [
+        "mandatory_fees"
+      ],
+      "scope": "campus:南京财经大学",
+      "query": "全国大学生数学建模竞赛 2026 campus:南京财经大学 复赛 决赛 必缴 费用 收费",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    },
+    {
+      "action": "search",
+      "competition_id": "curated-nufe-mcm-2026-campus",
+      "contest_name": "全国大学生数学建模竞赛",
+      "edition": "2026",
+      "target_fields": [
+        "registration_url"
+      ],
+      "scope": "campus:南京财经大学",
+      "query": "全国大学生数学建模竞赛 2026 campus:南京财经大学 官方报名入口 报名系统",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    },
+    {
+      "action": "search",
+      "competition_id": "curated-nufe-mcm-2026-campus",
+      "contest_name": "全国大学生数学建模竞赛",
+      "edition": "2026",
+      "target_fields": [
+        "registration_materials"
+      ],
+      "scope": "campus:南京财经大学",
+      "query": "全国大学生数学建模竞赛 2026 campus:南京财经大学 报名材料 提交 清单",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    }
+  ],
+  "source_reviews": [
+    {
+      "evidence_id": "nufe-2026-competition_name-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "nufe-2026-competition_edition-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "nufe-2026-track-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "nufe-2026-organizer-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "nufe-2026-official_url-1",
+      "source_verified": true,
+      "support": "supported",
+      "reasons": [
+        "approved_notice_page_supported"
+      ]
+    },
+    {
+      "evidence_id": "nufe-2026-eligibility-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_eligibility_sentence"
+      ]
+    },
+    {
+      "evidence_id": "nufe-2026-participation_mode-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "nufe-2026-team_rules-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "nufe-2026-registration_start-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "nufe-2026-registration_start-2",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "nufe-2026-campus_deadline-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "nufe-2026-campus_deadline-2",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "nufe-2026-task_description-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "nufe-2026-deliverables-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "nufe-2026-submission_deadline-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "nufe-2026-attendance_mode-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "nufe-2026-registration_fee-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "nufe-2026-registration_method-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "nufe-2026-institutional_requirements-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "nufe-2026-schedule-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "nufe-2026-awards-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "nufe-2026-technical_requirements-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "nufe-2026-work_rules-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "nufe-2026-preparation_resources-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "nufe-2026-preparation_resources-2",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "nufe-2026-expense_details-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "nufe-2026-contacts-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "nufe-2026-contacts-2",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    }
+  ]
+}

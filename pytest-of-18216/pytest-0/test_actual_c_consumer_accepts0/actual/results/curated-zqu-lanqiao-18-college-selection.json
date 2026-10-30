@@ -1,0 +1,1343 @@
+{
+  "data_kind": "real_candidate_frozen_policy_verification",
+  "notice": "B正式策略与来源审批；无法由保守原文规则确认的内容保留待确认。未执行补搜。",
+  "verification": {
+    "competition_id": "curated-zqu-lanqiao-18-college-selection",
+    "status": "pending",
+    "fields": {
+      "competition_name": {
+        "field": "competition_name",
+        "status": "pending",
+        "original_value": "蓝桥杯全国大学生软件和信息技术大赛",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "zqu-18-competition_name-1": [
+            "direct_support_not_confirmed",
+            "ambiguous_source_context",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://eee.zqu.edu.cn/info/1186/43132.htm"
+        ]
+      },
+      "competition_edition": {
+        "field": "competition_edition",
+        "status": "pending",
+        "original_value": "第十八届",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "zqu-18-competition_edition-1": [
+            "direct_support_not_confirmed",
+            "ambiguous_source_context",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://eee.zqu.edu.cn/info/1186/43132.htm"
+        ]
+      },
+      "track": {
+        "field": "track",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:肇庆学院",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "organizer": {
+        "field": "organizer",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:肇庆学院",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "official_url": {
+        "field": "official_url",
+        "status": "pending",
+        "original_value": "https://dasai.lanqiao.cn/notices/3002",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "zqu-18-official_url-1": [
+            "direct_support_not_confirmed",
+            "ambiguous_source_context",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://eee.zqu.edu.cn/info/1186/43132.htm"
+        ]
+      },
+      "eligibility": {
+        "field": "eligibility",
+        "status": "pending",
+        "original_value": "报名对象：电子与电气工程学院在读大二、大三学生且未参加过往届比赛的同学。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "zqu-18-eligibility-1": [
+            "direct_support_not_confirmed",
+            "ambiguous_source_context",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:肇庆学院",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://eee.zqu.edu.cn/info/1186/43132.htm"
+        ]
+      },
+      "participation_mode": {
+        "field": "participation_mode",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:肇庆学院",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "team_rules": {
+        "field": "team_rules",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:肇庆学院",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "registration_start": {
+        "field": "registration_start",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "zqu-18-registration_start-1": [
+            "invalid_claim_value",
+            "direct_support_not_confirmed",
+            "ambiguous_source_context",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:肇庆学院",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://eee.zqu.edu.cn/info/1186/43132.htm"
+        ]
+      },
+      "registration_deadline": {
+        "field": "registration_deadline",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "campus_deadline": {
+        "field": "campus_deadline",
+        "status": "pending",
+        "original_value": "2026-11-16",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "zqu-18-campus_deadline-1": [
+            "direct_support_not_confirmed",
+            "ambiguous_source_context"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:肇庆学院",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://eee.zqu.edu.cn/info/1186/43132.htm"
+        ]
+      },
+      "task_description": {
+        "field": "task_description",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:肇庆学院",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "deliverables": {
+        "field": "deliverables",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:肇庆学院",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "submission_deadline": {
+        "field": "submission_deadline",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:肇庆学院",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "attendance_mode": {
+        "field": "attendance_mode",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:肇庆学院",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "venue": {
+        "field": "venue",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:肇庆学院",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "registration_fee": {
+        "field": "registration_fee",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:肇庆学院",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "mandatory_fees": {
+        "field": "mandatory_fees",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:肇庆学院",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "registration_method": {
+        "field": "registration_method",
+        "status": "pending",
+        "original_value": "报名形式：竞赛QQ群，进群填写在线报名文档，切勿在官方网站直接报名。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "zqu-18-registration_method-1": [
+            "direct_support_not_confirmed",
+            "ambiguous_source_context",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:肇庆学院",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://eee.zqu.edu.cn/info/1186/43132.htm"
+        ]
+      },
+      "registration_url": {
+        "field": "registration_url",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "zqu-18-registration_url-1": [
+            "invalid_claim_value",
+            "direct_support_not_confirmed",
+            "ambiguous_source_context",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:肇庆学院",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://eee.zqu.edu.cn/info/1186/43132.htm"
+        ]
+      },
+      "registration_materials": {
+        "field": "registration_materials",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "zqu-18-registration_materials-1": [
+            "direct_support_not_confirmed",
+            "ambiguous_source_context",
+            "insufficient_source_type"
+          ],
+          "zqu-18-registration_materials-2": [
+            "direct_support_not_confirmed",
+            "ambiguous_source_context",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:肇庆学院",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://eee.zqu.edu.cn/info/1186/43132.htm"
+        ]
+      },
+      "institutional_requirements": {
+        "field": "institutional_requirements",
+        "status": "pending",
+        "original_value": "竞赛形式：报名截止后，学院统一安排院赛（具体时间另行通知，预计11月中），择优推荐参加省赛。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "zqu-18-institutional_requirements-1": [
+            "direct_support_not_confirmed",
+            "ambiguous_source_context"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:肇庆学院",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://eee.zqu.edu.cn/info/1186/43132.htm"
+        ]
+      },
+      "schedule": {
+        "field": "schedule",
+        "status": "pending",
+        "original_value": "竞赛形式：报名截止后，学院统一安排院赛（具体时间另行通知，预计11月中），择优推荐参加省赛。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "zqu-18-schedule-1": [
+            "direct_support_not_confirmed",
+            "ambiguous_source_context",
+            "insufficient_source_type"
+          ]
+        },
+        "required": false,
+        "requirement_reasons": [
+          "拓展项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:肇庆学院",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://eee.zqu.edu.cn/info/1186/43132.htm"
+        ]
+      },
+      "judging_criteria": {
+        "field": "judging_criteria",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "zqu-18-judging_criteria-1": [
+            "direct_support_not_confirmed",
+            "ambiguous_source_context",
+            "insufficient_source_type"
+          ]
+        },
+        "required": false,
+        "requirement_reasons": [
+          "拓展项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:肇庆学院",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://eee.zqu.edu.cn/info/1186/43132.htm"
+        ]
+      },
+      "contacts": {
+        "field": "contacts",
+        "status": "pending",
+        "original_value": "联系方式：竞赛报名QQ群，进群备注（姓名、班级、参赛项目）",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "zqu-18-contacts-1": [
+            "direct_support_not_confirmed",
+            "ambiguous_source_context"
+          ]
+        },
+        "required": false,
+        "requirement_reasons": [
+          "拓展项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:肇庆学院",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://eee.zqu.edu.cn/info/1186/43132.htm"
+        ]
+      }
+    },
+    "missing_fields": [
+      "track",
+      "organizer",
+      "participation_mode",
+      "team_rules",
+      "registration_start",
+      "registration_deadline",
+      "task_description",
+      "deliverables",
+      "submission_deadline",
+      "attendance_mode",
+      "venue",
+      "registration_fee",
+      "mandatory_fees",
+      "registration_url",
+      "registration_materials",
+      "judging_criteria"
+    ],
+    "unresolved_fields": [
+      "competition_name",
+      "competition_edition",
+      "track",
+      "organizer",
+      "official_url",
+      "eligibility",
+      "participation_mode",
+      "team_rules",
+      "registration_start",
+      "registration_deadline",
+      "campus_deadline",
+      "task_description",
+      "deliverables",
+      "submission_deadline",
+      "attendance_mode",
+      "venue",
+      "registration_fee",
+      "mandatory_fees",
+      "registration_method",
+      "registration_url",
+      "registration_materials",
+      "institutional_requirements"
+    ],
+    "coverage": 0.0,
+    "required_fields": [
+      "competition_name",
+      "competition_edition",
+      "track",
+      "organizer",
+      "official_url",
+      "eligibility",
+      "participation_mode",
+      "team_rules",
+      "registration_start",
+      "registration_deadline",
+      "campus_deadline",
+      "task_description",
+      "deliverables",
+      "submission_deadline",
+      "attendance_mode",
+      "venue",
+      "registration_fee",
+      "mandatory_fees",
+      "registration_method",
+      "registration_url",
+      "registration_materials",
+      "institutional_requirements"
+    ],
+    "promoted_fields": [],
+    "optional_unresolved_fields": [
+      "schedule",
+      "judging_criteria",
+      "contacts"
+    ],
+    "optional_conflict_fields": [],
+    "unrecognized_fields": [],
+    "verified_at": "2026-10-28T15:49:07.719035+00:00",
+    "consistency_issues": [],
+    "verified_fields": {},
+    "not_applicable_fields": {},
+    "status_scope": "required_fields_only",
+    "action_items": [
+      {
+        "field": "competition_name",
+        "label": "赛事名称",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://eee.zqu.edu.cn/info/1186/43132.htm"
+        ],
+        "candidate_evidence_refs": [
+          "zqu-18-competition_name-1"
+        ]
+      },
+      {
+        "field": "competition_edition",
+        "label": "届次年份",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://eee.zqu.edu.cn/info/1186/43132.htm"
+        ],
+        "candidate_evidence_refs": [
+          "zqu-18-competition_edition-1"
+        ]
+      },
+      {
+        "field": "track",
+        "label": "赛道组别",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "campus:肇庆学院",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "organizer",
+        "label": "主办方",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "campus:肇庆学院",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "official_url",
+        "label": "官方通知链接",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://eee.zqu.edu.cn/info/1186/43132.htm"
+        ],
+        "candidate_evidence_refs": [
+          "zqu-18-official_url-1"
+        ]
+      },
+      {
+        "field": "eligibility",
+        "label": "参赛资格",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:肇庆学院",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://eee.zqu.edu.cn/info/1186/43132.htm"
+        ],
+        "candidate_evidence_refs": [
+          "zqu-18-eligibility-1"
+        ]
+      },
+      {
+        "field": "participation_mode",
+        "label": "参赛形式",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "campus:肇庆学院",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "team_rules",
+        "label": "组队规则",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "campus:肇庆学院",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "registration_start",
+        "label": "报名开始日期",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:肇庆学院",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://eee.zqu.edu.cn/info/1186/43132.htm"
+        ],
+        "candidate_evidence_refs": [
+          "zqu-18-registration_start-1"
+        ]
+      },
+      {
+        "field": "registration_deadline",
+        "label": "报名截止日期",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "campus_deadline",
+        "label": "校内截止日期",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:肇庆学院",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://eee.zqu.edu.cn/info/1186/43132.htm"
+        ],
+        "candidate_evidence_refs": [
+          "zqu-18-campus_deadline-1"
+        ]
+      },
+      {
+        "field": "task_description",
+        "label": "比赛任务",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "campus:肇庆学院",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "deliverables",
+        "label": "提交成果",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "campus:肇庆学院",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "submission_deadline",
+        "label": "作品提交截止日期",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "campus:肇庆学院",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "attendance_mode",
+        "label": "参赛方式",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "campus:肇庆学院",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "venue",
+        "label": "比赛地点",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "campus:肇庆学院",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "registration_fee",
+        "label": "报名费用",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "campus:肇庆学院",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "mandatory_fees",
+        "label": "后续必缴费用",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "campus:肇庆学院",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "registration_method",
+        "label": "报名方式",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:肇庆学院",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://eee.zqu.edu.cn/info/1186/43132.htm"
+        ],
+        "candidate_evidence_refs": [
+          "zqu-18-registration_method-1"
+        ]
+      },
+      {
+        "field": "registration_url",
+        "label": "官方报名入口",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:肇庆学院",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://eee.zqu.edu.cn/info/1186/43132.htm"
+        ],
+        "candidate_evidence_refs": [
+          "zqu-18-registration_url-1"
+        ]
+      },
+      {
+        "field": "registration_materials",
+        "label": "报名材料",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:肇庆学院",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://eee.zqu.edu.cn/info/1186/43132.htm"
+        ],
+        "candidate_evidence_refs": [
+          "zqu-18-registration_materials-1",
+          "zqu-18-registration_materials-2"
+        ]
+      },
+      {
+        "field": "institutional_requirements",
+        "label": "学校及教师手续",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:肇庆学院",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://eee.zqu.edu.cn/info/1186/43132.htm"
+        ],
+        "candidate_evidence_refs": [
+          "zqu-18-institutional_requirements-1"
+        ]
+      }
+    ]
+  },
+  "requests": [
+    {
+      "action": "search",
+      "competition_id": "curated-zqu-lanqiao-18-college-selection",
+      "contest_name": "蓝桥杯全国大学生软件和信息技术大赛",
+      "edition": "第十八届",
+      "target_fields": [
+        "track"
+      ],
+      "scope": "campus:肇庆学院",
+      "query": "蓝桥杯全国大学生软件和信息技术大赛 第十八届 campus:肇庆学院 赛道 组别 官方章程",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    },
+    {
+      "action": "search",
+      "competition_id": "curated-zqu-lanqiao-18-college-selection",
+      "contest_name": "蓝桥杯全国大学生软件和信息技术大赛",
+      "edition": "第十八届",
+      "target_fields": [
+        "organizer"
+      ],
+      "scope": "campus:肇庆学院",
+      "query": "蓝桥杯全国大学生软件和信息技术大赛 第十八届 campus:肇庆学院 主办单位 官方通知",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    },
+    {
+      "action": "search",
+      "competition_id": "curated-zqu-lanqiao-18-college-selection",
+      "contest_name": "蓝桥杯全国大学生软件和信息技术大赛",
+      "edition": "第十八届",
+      "target_fields": [
+        "participation_mode"
+      ],
+      "scope": "campus:肇庆学院",
+      "query": "蓝桥杯全国大学生软件和信息技术大赛 第十八届 campus:肇庆学院 个人 团队 参赛形式",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    },
+    {
+      "action": "search",
+      "competition_id": "curated-zqu-lanqiao-18-college-selection",
+      "contest_name": "蓝桥杯全国大学生软件和信息技术大赛",
+      "edition": "第十八届",
+      "target_fields": [
+        "team_rules"
+      ],
+      "scope": "campus:肇庆学院",
+      "query": "蓝桥杯全国大学生软件和信息技术大赛 第十八届 campus:肇庆学院 组队人数 跨校 指导教师 队长",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    },
+    {
+      "action": "search",
+      "competition_id": "curated-zqu-lanqiao-18-college-selection",
+      "contest_name": "蓝桥杯全国大学生软件和信息技术大赛",
+      "edition": "第十八届",
+      "target_fields": [
+        "registration_deadline"
+      ],
+      "scope": "global",
+      "query": "蓝桥杯全国大学生软件和信息技术大赛 第十八届 报名截止日期 报名时间 官方通知",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    },
+    {
+      "action": "search",
+      "competition_id": "curated-zqu-lanqiao-18-college-selection",
+      "contest_name": "蓝桥杯全国大学生软件和信息技术大赛",
+      "edition": "第十八届",
+      "target_fields": [
+        "task_description"
+      ],
+      "scope": "campus:肇庆学院",
+      "query": "蓝桥杯全国大学生软件和信息技术大赛 第十八届 campus:肇庆学院 竞赛任务 赛题 要求",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    },
+    {
+      "action": "search",
+      "competition_id": "curated-zqu-lanqiao-18-college-selection",
+      "contest_name": "蓝桥杯全国大学生软件和信息技术大赛",
+      "edition": "第十八届",
+      "target_fields": [
+        "deliverables"
+      ],
+      "scope": "campus:肇庆学院",
+      "query": "蓝桥杯全国大学生软件和信息技术大赛 第十八届 campus:肇庆学院 提交 作品 材料 成果",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    },
+    {
+      "action": "search",
+      "competition_id": "curated-zqu-lanqiao-18-college-selection",
+      "contest_name": "蓝桥杯全国大学生软件和信息技术大赛",
+      "edition": "第十八届",
+      "target_fields": [
+        "submission_deadline"
+      ],
+      "scope": "campus:肇庆学院",
+      "query": "蓝桥杯全国大学生软件和信息技术大赛 第十八届 campus:肇庆学院 作品 提交 截止日期",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    },
+    {
+      "action": "search",
+      "competition_id": "curated-zqu-lanqiao-18-college-selection",
+      "contest_name": "蓝桥杯全国大学生软件和信息技术大赛",
+      "edition": "第十八届",
+      "target_fields": [
+        "attendance_mode"
+      ],
+      "scope": "campus:肇庆学院",
+      "query": "蓝桥杯全国大学生软件和信息技术大赛 第十八届 campus:肇庆学院 初赛 决赛 答辩 线上 线下 到场",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    },
+    {
+      "action": "search",
+      "competition_id": "curated-zqu-lanqiao-18-college-selection",
+      "contest_name": "蓝桥杯全国大学生软件和信息技术大赛",
+      "edition": "第十八届",
+      "target_fields": [
+        "venue"
+      ],
+      "scope": "campus:肇庆学院",
+      "query": "蓝桥杯全国大学生软件和信息技术大赛 第十八届 campus:肇庆学院 比赛地点 决赛城市 到场",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    },
+    {
+      "action": "search",
+      "competition_id": "curated-zqu-lanqiao-18-college-selection",
+      "contest_name": "蓝桥杯全国大学生软件和信息技术大赛",
+      "edition": "第十八届",
+      "target_fields": [
+        "registration_fee"
+      ],
+      "scope": "campus:肇庆学院",
+      "query": "蓝桥杯全国大学生软件和信息技术大赛 第十八届 campus:肇庆学院 报名费 收费标准 每人 每队",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    },
+    {
+      "action": "search",
+      "competition_id": "curated-zqu-lanqiao-18-college-selection",
+      "contest_name": "蓝桥杯全国大学生软件和信息技术大赛",
+      "edition": "第十八届",
+      "target_fields": [
+        "mandatory_fees"
+      ],
+      "scope": "campus:肇庆学院",
+      "query": "蓝桥杯全国大学生软件和信息技术大赛 第十八届 campus:肇庆学院 复赛 决赛 必缴 费用 收费",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    }
+  ],
+  "source_reviews": [
+    {
+      "evidence_id": "zqu-18-competition_name-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "ambiguous_source_context"
+      ]
+    },
+    {
+      "evidence_id": "zqu-18-competition_edition-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "ambiguous_source_context"
+      ]
+    },
+    {
+      "evidence_id": "zqu-18-official_url-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "ambiguous_source_context"
+      ]
+    },
+    {
+      "evidence_id": "zqu-18-eligibility-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "ambiguous_source_context"
+      ]
+    },
+    {
+      "evidence_id": "zqu-18-registration_start-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "ambiguous_source_context"
+      ]
+    },
+    {
+      "evidence_id": "zqu-18-campus_deadline-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "ambiguous_source_context"
+      ]
+    },
+    {
+      "evidence_id": "zqu-18-registration_method-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "ambiguous_source_context"
+      ]
+    },
+    {
+      "evidence_id": "zqu-18-registration_url-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "ambiguous_source_context"
+      ]
+    },
+    {
+      "evidence_id": "zqu-18-registration_materials-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "ambiguous_source_context"
+      ]
+    },
+    {
+      "evidence_id": "zqu-18-registration_materials-2",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "ambiguous_source_context"
+      ]
+    },
+    {
+      "evidence_id": "zqu-18-institutional_requirements-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "ambiguous_source_context"
+      ]
+    },
+    {
+      "evidence_id": "zqu-18-schedule-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "ambiguous_source_context"
+      ]
+    },
+    {
+      "evidence_id": "zqu-18-judging_criteria-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "ambiguous_source_context"
+      ]
+    },
+    {
+      "evidence_id": "zqu-18-contacts-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "ambiguous_source_context"
+      ]
+    }
+  ]
+}

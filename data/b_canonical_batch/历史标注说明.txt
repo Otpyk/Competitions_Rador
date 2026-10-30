@@ -1,0 +1,1 @@
+annotations、c_original_contests.json 和 c_original_evidence_provenance.json 保存 C 原始交接记录。本轮三个字段的最终目标范围和移出证据以 scope_decisions.json 为准。原记录不自动重标为新范围。

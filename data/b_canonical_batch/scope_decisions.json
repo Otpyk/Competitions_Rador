@@ -1,0 +1,64 @@
+[
+  {
+    "competition_id": "curated-hlju-mcm-2026-campus",
+    "field": "registration_deadline",
+    "old_scope": "campus:黑龙江大学",
+    "new_scope": "global",
+    "decision": "赛事层面报名截止和主办方使用全国目标；校内截止另存campus_deadline。",
+    "original_field_value": null,
+    "retained_original_evidence": [],
+    "new_evidence": [],
+    "applied_to": "B对齐副本；C原始交接包未修改"
+  },
+  {
+    "competition_id": "curated-hlju-mcm-2026-campus",
+    "field": "organizer",
+    "old_scope": "campus:黑龙江大学",
+    "new_scope": "global",
+    "decision": "赛事层面报名截止和主办方使用全国目标；校内截止另存campus_deadline。",
+    "original_field_value": null,
+    "retained_original_evidence": [
+      {
+        "id": "hlju-2026-organizer-1",
+        "value": "2026年全国大学生数学建模竞赛，将于9月10日（周四）18:00至9月13日（周日）20:00进行。竞赛采用\"全国大学生数学建模竞赛管理系统\"（网址：https://cumcm.cnki.net），详情见数学建模国赛微信群中发布的\"参赛须知、竞赛章程、参赛规则和AI使用规定\"等政策文件。本次竞赛，由创新创业教育学院主办，数学与统计学院组织开展，为规范管理，现将报名须知通报如下：",
+        "url": "https://math.hlju.edu.cn/info/1009/2406.htm",
+        "quote": "2026年全国大学生数学建模竞赛，将于9月10日（周四）18:00至9月13日（周日）20:00进行。竞赛采用\"全国大学生数学建模竞赛管理系统\"（网址：https://cumcm.cnki.net），详情见数学建模国赛微信群中发布的\"参赛须知、竞赛章程、参赛规则和AI使用规定\"等政策文件。本次竞赛，由创新创业教育学院主办，数学与统计学院组织开展，为规范管理，现将报名须知通报如下：",
+        "edition": "2026",
+        "scope": "campus:黑龙江大学",
+        "value_kind": "value"
+      }
+    ],
+    "new_evidence": [],
+    "applied_to": "B对齐副本；C原始交接包未修改"
+  },
+  {
+    "competition_id": "curated-nufe-mcm-2026-campus",
+    "field": "registration_deadline",
+    "old_scope": "campus:南京财经大学",
+    "new_scope": "global",
+    "decision": "赛事层面报名截止和主办方使用全国目标；校内截止另存campus_deadline。",
+    "original_field_value": null,
+    "retained_original_evidence": [
+      {
+        "id": "nufe-2026-registration_deadline-1",
+        "value": "五、报名时间\n报名时间：2026年7月10日——2026年7月19日",
+        "url": "https://jwc.nufe.edu.cn/info/1031/18284.htm",
+        "quote": "五、报名时间\n报名时间：2026年7月10日——2026年7月19日",
+        "edition": "2026",
+        "scope": "campus:南京财经大学",
+        "value_kind": "value"
+      },
+      {
+        "id": "nufe-2026-registration_deadline-2",
+        "value": "六、报名方式和费用\n有意参加2026年全国大学生数学建模竞赛的同学，通过线上报名参加暑期培训。暑期培训QQ群556822906。培训结束后教练组统一组织正式报名。本次比赛的报名费由参赛学生自付，费用为每队300元人民币。",
+        "url": "https://jwc.nufe.edu.cn/info/1031/18284.htm",
+        "quote": "六、报名方式和费用\n有意参加2026年全国大学生数学建模竞赛的同学，通过线上报名参加暑期培训。暑期培训QQ群556822906。培训结束后教练组统一组织正式报名。本次比赛的报名费由参赛学生自付，费用为每队300元人民币。",
+        "edition": "2026",
+        "scope": "campus:南京财经大学",
+        "value_kind": "value"
+      }
+    ],
+    "new_evidence": [],
+    "applied_to": "B对齐副本；C原始交接包未修改"
+  }
+]

@@ -1,0 +1,1487 @@
+{
+  "data_kind": "real_candidate_frozen_policy_verification",
+  "notice": "B正式策略与来源审批；无法由保守原文规则确认的内容保留待确认。未执行补搜。",
+  "verification": {
+    "competition_id": "curated-hlju-mcm-2026-campus",
+    "status": "pending",
+    "fields": {
+      "competition_name": {
+        "field": "competition_name",
+        "status": "pending",
+        "original_value": "全国大学生数学建模竞赛",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "hlju-2026-competition_name-1": [
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "repair_extraction",
+        "action_reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ]
+      },
+      "competition_edition": {
+        "field": "competition_edition",
+        "status": "pending",
+        "original_value": "2026",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "hlju-2026-competition_edition-1": [
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "repair_extraction",
+        "action_reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ]
+      },
+      "track": {
+        "field": "track",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:黑龙江大学",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "organizer": {
+        "field": "organizer",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "official_url": {
+        "field": "official_url",
+        "status": "pending",
+        "original_value": "https://math.hlju.edu.cn/info/1009/2406.htm",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "hlju-2026-official_url-1": [
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:黑龙江大学",
+        "next_action": "repair_extraction",
+        "action_reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ]
+      },
+      "eligibility": {
+        "field": "eligibility",
+        "status": "pending",
+        "original_value": "一、资格审查和报名费\n为避免资源浪费，鼓励参赛队不应付、不退赛、不弃赛。2026年全国大学生数学建模竞赛报名采用资格审查制度，凡参加2025年全国大学生数学建模竞赛或参加2026年东北三省数学建模联赛，获省级三等奖及以上奖项的队伍，免收报名费；获奖并重新组队的队伍，若队内两人（或以上）获得过省级及以上奖励，仍免收报名费；其他参赛队伍，需缴纳300元报名费（黑龙江省赛区统一收取的评审费）。无论最终是否获奖，都不退报名费。\n\n二、组队和指导教师资质\n为保证参赛队伍的稳定性和竞争性，鼓励参加过数学建模国赛或东北三省数学建模联赛并获奖的队员参赛。重新组队的队员，建议强强联合，切实发挥每个队员在队伍中的作用，严格避免挂名而无实际工作量的队员参赛。全国大学生数学建模竞赛参赛规则（2026年修订稿）明确指出，指导教师主要从事赛前辅导，竞赛期间参与属违纪行为。在新形势和规则下，数学与统计学院将委派优秀数学建模指导教师进行5次赛前讲座，具体时间地点届时会在竞赛微信群中公布。非数学与统计学院教师，每年至少进行一次全校范围内的（校赛、联赛、国赛）数学建模讲座工作，并报请数学与统计学院创新创业工作领导小组核准，才有资质担任指导教师。数学与统计学院欢迎外院教师加入数学建模竞赛指导教师队伍，为学校创新创业工作贡献力量。\n\n三、报名方式和时间\n本次竞赛采用网上报名。报名时间为2026年8月31日至2026年9月5日23:00时。参赛队请认真填写\"2026年黑龙江大学数学建模国赛报名表\"电子表格并规范命名（竞赛微信群中会发布报名表样例），发送到1997021@hlju.edu.cn，之后由数学与统计学院统一导入到竞赛管理系统中。参赛队第一名队员（学生1）可在2026年9月6日20：00时后登陆系统（账号为手机号，默认密码为手机号后6位）首次激活，如显示账号或密码错误，请核对报名手机号或找回密码。\n\n四、违纪和弃赛处理\n全国大学生数学建模组委会2026年重新修订了\"全国大学生数学建模竞赛参赛规则\"和\"全国大学生数学建模竞赛人工智能工具使用规定\"等政策文件，加大了对教师参与、抄袭和购买竞赛试题解答、AI生成式论文等作弊行为的打击和惩罚力度，请参赛队员严格遵守。如果因诚信问题导致黑龙江大学被全国组委会通报批评情形，学校将从严从重追究当事人责任，被通报队伍及其指导教师应出具违纪情况说明、整改措施等签字文件，由数学与统计学院报黑龙江省赛区组委会备案。对本次竞赛，如报名参赛后弃赛或上传电子版论文失败（包括中途放弃比赛、不提交纸质版论文、MD5码不一致导致不能上传论文和支撑材料等），除补交报名费外，一年内禁止参加任何数学建模竞赛。\n\n五、竞赛微信群\n2026年高教社杯全国大学生数学建模竞赛组织、通知和培训等工作，使用名为\"2026年数学建模国赛群\"的竞赛工作群。参赛队队员扫描本通知中的二维码进群，指导教师不需要也不必进群。为方便管理和避免违纪等问题，进群队员按要求更改群昵称。非参赛队员或不按要求更改群昵称的，一律清理出群。\n\n其他未尽事宜，请参见\"参赛须知、论文格式规范、竞赛章程、参赛规则和AI使用规定\"等政策文件，或见后续群内通知，此报名通知解释权归数学与统计学院所有。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "hlju-2026-eligibility-1": [
+            "direct_support_not_confirmed",
+            "unsupported_eligibility_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:黑龙江大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ]
+      },
+      "participation_mode": {
+        "field": "participation_mode",
+        "status": "pending",
+        "original_value": "参赛队",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "hlju-2026-participation_mode-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:黑龙江大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ]
+      },
+      "team_rules": {
+        "field": "team_rules",
+        "status": "pending",
+        "original_value": "二、组队和指导教师资质\n为保证参赛队伍的稳定性和竞争性，鼓励参加过数学建模国赛或东北三省数学建模联赛并获奖的队员参赛。重新组队的队员，建议强强联合，切实发挥每个队员在队伍中的作用，严格避免挂名而无实际工作量的队员参赛。全国大学生数学建模竞赛参赛规则（2026年修订稿）明确指出，指导教师主要从事赛前辅导，竞赛期间参与属违纪行为。在新形势和规则下，数学与统计学院将委派优秀数学建模指导教师进行5次赛前讲座，具体时间地点届时会在竞赛微信群中公布。非数学与统计学院教师，每年至少进行一次全校范围内的（校赛、联赛、国赛）数学建模讲座工作，并报请数学与统计学院创新创业工作领导小组核准，才有资质担任指导教师。数学与统计学院欢迎外院教师加入数学建模竞赛指导教师队伍，为学校创新创业工作贡献力量。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "hlju-2026-team_rules-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:黑龙江大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ]
+      },
+      "registration_start": {
+        "field": "registration_start",
+        "status": "pending",
+        "original_value": "2026-08-31",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "hlju-2026-registration_start-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:黑龙江大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ]
+      },
+      "registration_deadline": {
+        "field": "registration_deadline",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "campus_deadline": {
+        "field": "campus_deadline",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "hlju-2026-campus_deadline-1": [
+            "invalid_claim_value",
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:黑龙江大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ]
+      },
+      "task_description": {
+        "field": "task_description",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:黑龙江大学",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "deliverables": {
+        "field": "deliverables",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "hlju-2026-deliverables-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:黑龙江大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ]
+      },
+      "submission_deadline": {
+        "field": "submission_deadline",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "hlju-2026-submission_deadline-1": [
+            "invalid_claim_value",
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:黑龙江大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ]
+      },
+      "attendance_mode": {
+        "field": "attendance_mode",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "hlju-2026-attendance_mode-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:黑龙江大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ]
+      },
+      "venue": {
+        "field": "venue",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:黑龙江大学",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "registration_fee": {
+        "field": "registration_fee",
+        "status": "pending",
+        "original_value": "一、资格审查和报名费\n为避免资源浪费，鼓励参赛队不应付、不退赛、不弃赛。2026年全国大学生数学建模竞赛报名采用资格审查制度，凡参加2025年全国大学生数学建模竞赛或参加2026年东北三省数学建模联赛，获省级三等奖及以上奖项的队伍，免收报名费；获奖并重新组队的队伍，若队内两人（或以上）获得过省级及以上奖励，仍免收报名费；其他参赛队伍，需缴纳300元报名费（黑龙江省赛区统一收取的评审费）。无论最终是否获奖，都不退报名费。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "hlju-2026-registration_fee-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:黑龙江大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ]
+      },
+      "mandatory_fees": {
+        "field": "mandatory_fees",
+        "status": "pending",
+        "original_value": null,
+        "verified_value": null,
+        "reasons": [
+          "missing_value",
+          "missing_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {},
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:黑龙江大学",
+        "next_action": "search",
+        "action_reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "source_urls": []
+      },
+      "registration_method": {
+        "field": "registration_method",
+        "status": "pending",
+        "original_value": "三、报名方式和时间\n本次竞赛采用网上报名。报名时间为2026年8月31日至2026年9月5日23:00时。参赛队请认真填写\"2026年黑龙江大学数学建模国赛报名表\"电子表格并规范命名（竞赛微信群中会发布报名表样例），发送到1997021@hlju.edu.cn，之后由数学与统计学院统一导入到竞赛管理系统中。参赛队第一名队员（学生1）可在2026年9月6日20：00时后登陆系统（账号为手机号，默认密码为手机号后6位）首次激活，如显示账号或密码错误，请核对报名手机号或找回密码。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "hlju-2026-registration_method-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:黑龙江大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ]
+      },
+      "registration_url": {
+        "field": "registration_url",
+        "status": "pending",
+        "original_value": "https://cumcm.cnki.net",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "hlju-2026-registration_url-1": [
+            "direct_support_not_confirmed",
+            "unsupported_registration_url_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:黑龙江大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ]
+      },
+      "registration_materials": {
+        "field": "registration_materials",
+        "status": "pending",
+        "original_value": "参赛队请认真填写\"2026年黑龙江大学数学建模国赛报名表\"电子表格并规范命名（竞赛微信群中会发布报名表样例），发送到1997021@hlju.edu.cn，之后由数学与统计学院统一导入到竞赛管理系统中。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "hlju-2026-registration_materials-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:黑龙江大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ]
+      },
+      "institutional_requirements": {
+        "field": "institutional_requirements",
+        "status": "pending",
+        "original_value": "三、报名方式和时间\n本次竞赛采用网上报名。报名时间为2026年8月31日至2026年9月5日23:00时。参赛队请认真填写\"2026年黑龙江大学数学建模国赛报名表\"电子表格并规范命名（竞赛微信群中会发布报名表样例），发送到1997021@hlju.edu.cn，之后由数学与统计学院统一导入到竞赛管理系统中。参赛队第一名队员（学生1）可在2026年9月6日20：00时后登陆系统（账号为手机号，默认密码为手机号后6位）首次激活，如显示账号或密码错误，请核对报名手机号或找回密码。\n\n四、违纪和弃赛处理\n全国大学生数学建模组委会2026年重新修订了\"全国大学生数学建模竞赛参赛规则\"和\"全国大学生数学建模竞赛人工智能工具使用规定\"等政策文件，加大了对教师参与、抄袭和购买竞赛试题解答、AI生成式论文等作弊行为的打击和惩罚力度，请参赛队员严格遵守。如果因诚信问题导致黑龙江大学被全国组委会通报批评情形，学校将从严从重追究当事人责任，被通报队伍及其指导教师应出具违纪情况说明、整改措施等签字文件，由数学与统计学院报黑龙江省赛区组委会备案。对本次竞赛，如报名参赛后弃赛或上传电子版论文失败（包括中途放弃比赛、不提交纸质版论文、MD5码不一致导致不能上传论文和支撑材料等），除补交报名费外，一年内禁止参加任何数学建模竞赛。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "hlju-2026-institutional_requirements-1": [
+            "direct_support_not_confirmed",
+            "quote_not_complete_paragraph"
+          ]
+        },
+        "required": true,
+        "requirement_reasons": [
+          "基础必须项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:黑龙江大学",
+        "next_action": "repair_extraction",
+        "action_reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ]
+      },
+      "schedule": {
+        "field": "schedule",
+        "status": "pending",
+        "original_value": "2026年全国大学生数学建模竞赛，将于9月10日（周四）18:00至9月13日（周日）20:00进行。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "hlju-2026-schedule-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": false,
+        "requirement_reasons": [
+          "拓展项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "global",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ]
+      },
+      "work_rules": {
+        "field": "work_rules",
+        "status": "pending",
+        "original_value": "四、违纪和弃赛处理\n全国大学生数学建模组委会2026年重新修订了\"全国大学生数学建模竞赛参赛规则\"和\"全国大学生数学建模竞赛人工智能工具使用规定\"等政策文件，加大了对教师参与、抄袭和购买竞赛试题解答、AI生成式论文等作弊行为的打击和惩罚力度，请参赛队员严格遵守。如果因诚信问题导致黑龙江大学被全国组委会通报批评情形，学校将从严从重追究当事人责任，被通报队伍及其指导教师应出具违纪情况说明、整改措施等签字文件，由数学与统计学院报黑龙江省赛区组委会备案。对本次竞赛，如报名参赛后弃赛或上传电子版论文失败（包括中途放弃比赛、不提交纸质版论文、MD5码不一致导致不能上传论文和支撑材料等），除补交报名费外，一年内禁止参加任何数学建模竞赛。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "hlju-2026-work_rules-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ],
+          "hlju-2026-work_rules-2": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": false,
+        "requirement_reasons": [
+          "拓展项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:黑龙江大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ]
+      },
+      "preparation_resources": {
+        "field": "preparation_resources",
+        "status": "pending",
+        "original_value": "二、组队和指导教师资质\n为保证参赛队伍的稳定性和竞争性，鼓励参加过数学建模国赛或东北三省数学建模联赛并获奖的队员参赛。重新组队的队员，建议强强联合，切实发挥每个队员在队伍中的作用，严格避免挂名而无实际工作量的队员参赛。全国大学生数学建模竞赛参赛规则（2026年修订稿）明确指出，指导教师主要从事赛前辅导，竞赛期间参与属违纪行为。在新形势和规则下，数学与统计学院将委派优秀数学建模指导教师进行5次赛前讲座，具体时间地点届时会在竞赛微信群中公布。非数学与统计学院教师，每年至少进行一次全校范围内的（校赛、联赛、国赛）数学建模讲座工作，并报请数学与统计学院创新创业工作领导小组核准，才有资质担任指导教师。数学与统计学院欢迎外院教师加入数学建模竞赛指导教师队伍，为学校创新创业工作贡献力量。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "hlju-2026-preparation_resources-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ],
+          "hlju-2026-preparation_resources-2": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": false,
+        "requirement_reasons": [
+          "拓展项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:黑龙江大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ]
+      },
+      "expense_details": {
+        "field": "expense_details",
+        "status": "pending",
+        "original_value": "一、资格审查和报名费\n为避免资源浪费，鼓励参赛队不应付、不退赛、不弃赛。2026年全国大学生数学建模竞赛报名采用资格审查制度，凡参加2025年全国大学生数学建模竞赛或参加2026年东北三省数学建模联赛，获省级三等奖及以上奖项的队伍，免收报名费；获奖并重新组队的队伍，若队内两人（或以上）获得过省级及以上奖励，仍免收报名费；其他参赛队伍，需缴纳300元报名费（黑龙江省赛区统一收取的评审费）。无论最终是否获奖，都不退报名费。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "hlju-2026-expense_details-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ],
+          "hlju-2026-expense_details-2": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence",
+            "insufficient_source_type"
+          ]
+        },
+        "required": false,
+        "requirement_reasons": [
+          "拓展项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:黑龙江大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ]
+      },
+      "contacts": {
+        "field": "contacts",
+        "status": "pending",
+        "original_value": "五、竞赛微信群\n2026年高教社杯全国大学生数学建模竞赛组织、通知和培训等工作，使用名为\"2026年数学建模国赛群\"的竞赛工作群。参赛队队员扫描本通知中的二维码进群，指导教师不需要也不必进群。为方便管理和避免违纪等问题，进群队员按要求更改群昵称。非参赛队员或不按要求更改群昵称的，一律清理出群。",
+        "verified_value": null,
+        "reasons": [
+          "no_sufficient_evidence"
+        ],
+        "evidence_ids": [],
+        "conflicting_values": [],
+        "rejected_evidence": {
+          "hlju-2026-contacts-1": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence"
+          ],
+          "hlju-2026-contacts-2": [
+            "direct_support_not_confirmed",
+            "unsupported_field_sentence"
+          ]
+        },
+        "required": false,
+        "requirement_reasons": [
+          "拓展项"
+        ],
+        "value_kind": null,
+        "confirmed_statement": null,
+        "scope": "campus:黑龙江大学",
+        "next_action": "human_review",
+        "action_reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ]
+      }
+    },
+    "missing_fields": [
+      "track",
+      "organizer",
+      "registration_deadline",
+      "campus_deadline",
+      "task_description",
+      "deliverables",
+      "submission_deadline",
+      "attendance_mode",
+      "venue",
+      "mandatory_fees"
+    ],
+    "unresolved_fields": [
+      "competition_name",
+      "competition_edition",
+      "track",
+      "organizer",
+      "official_url",
+      "eligibility",
+      "participation_mode",
+      "team_rules",
+      "registration_start",
+      "registration_deadline",
+      "campus_deadline",
+      "task_description",
+      "deliverables",
+      "submission_deadline",
+      "attendance_mode",
+      "venue",
+      "registration_fee",
+      "mandatory_fees",
+      "registration_method",
+      "registration_url",
+      "registration_materials",
+      "institutional_requirements"
+    ],
+    "coverage": 0.0,
+    "required_fields": [
+      "competition_name",
+      "competition_edition",
+      "track",
+      "organizer",
+      "official_url",
+      "eligibility",
+      "participation_mode",
+      "team_rules",
+      "registration_start",
+      "registration_deadline",
+      "campus_deadline",
+      "task_description",
+      "deliverables",
+      "submission_deadline",
+      "attendance_mode",
+      "venue",
+      "registration_fee",
+      "mandatory_fees",
+      "registration_method",
+      "registration_url",
+      "registration_materials",
+      "institutional_requirements"
+    ],
+    "promoted_fields": [],
+    "optional_unresolved_fields": [
+      "schedule",
+      "work_rules",
+      "preparation_resources",
+      "expense_details",
+      "contacts"
+    ],
+    "optional_conflict_fields": [],
+    "unrecognized_fields": [],
+    "verified_at": "2026-10-28T15:49:07.689379+00:00",
+    "consistency_issues": [],
+    "verified_fields": {},
+    "not_applicable_fields": {},
+    "status_scope": "required_fields_only",
+    "action_items": [
+      {
+        "field": "competition_name",
+        "label": "赛事名称",
+        "action": "repair_extraction",
+        "action_label": "修正抽取结果",
+        "owner": "C",
+        "reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ],
+        "candidate_evidence_refs": [
+          "hlju-2026-competition_name-1"
+        ]
+      },
+      {
+        "field": "competition_edition",
+        "label": "届次年份",
+        "action": "repair_extraction",
+        "action_label": "修正抽取结果",
+        "owner": "C",
+        "reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ],
+        "candidate_evidence_refs": [
+          "hlju-2026-competition_edition-1"
+        ]
+      },
+      {
+        "field": "track",
+        "label": "赛道组别",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "campus:黑龙江大学",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "organizer",
+        "label": "主办方",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "official_url",
+        "label": "官方通知链接",
+        "action": "repair_extraction",
+        "action_label": "修正抽取结果",
+        "owner": "C",
+        "reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "scope": "campus:黑龙江大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ],
+        "candidate_evidence_refs": [
+          "hlju-2026-official_url-1"
+        ]
+      },
+      {
+        "field": "eligibility",
+        "label": "参赛资格",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:黑龙江大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ],
+        "candidate_evidence_refs": [
+          "hlju-2026-eligibility-1"
+        ]
+      },
+      {
+        "field": "participation_mode",
+        "label": "参赛形式",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:黑龙江大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ],
+        "candidate_evidence_refs": [
+          "hlju-2026-participation_mode-1"
+        ]
+      },
+      {
+        "field": "team_rules",
+        "label": "组队规则",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:黑龙江大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ],
+        "candidate_evidence_refs": [
+          "hlju-2026-team_rules-1"
+        ]
+      },
+      {
+        "field": "registration_start",
+        "label": "报名开始日期",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:黑龙江大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ],
+        "candidate_evidence_refs": [
+          "hlju-2026-registration_start-1"
+        ]
+      },
+      {
+        "field": "registration_deadline",
+        "label": "报名截止日期",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "global",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "campus_deadline",
+        "label": "校内截止日期",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:黑龙江大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ],
+        "candidate_evidence_refs": [
+          "hlju-2026-campus_deadline-1"
+        ]
+      },
+      {
+        "field": "task_description",
+        "label": "比赛任务",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "campus:黑龙江大学",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "deliverables",
+        "label": "提交成果",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:黑龙江大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ],
+        "candidate_evidence_refs": [
+          "hlju-2026-deliverables-1"
+        ]
+      },
+      {
+        "field": "submission_deadline",
+        "label": "作品提交截止日期",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:黑龙江大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ],
+        "candidate_evidence_refs": [
+          "hlju-2026-submission_deadline-1"
+        ]
+      },
+      {
+        "field": "attendance_mode",
+        "label": "参赛方式",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:黑龙江大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ],
+        "candidate_evidence_refs": [
+          "hlju-2026-attendance_mode-1"
+        ]
+      },
+      {
+        "field": "venue",
+        "label": "比赛地点",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "campus:黑龙江大学",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "registration_fee",
+        "label": "报名费用",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:黑龙江大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ],
+        "candidate_evidence_refs": [
+          "hlju-2026-registration_fee-1"
+        ]
+      },
+      {
+        "field": "mandatory_fees",
+        "label": "后续必缴费用",
+        "action": "search",
+        "action_label": "补充搜索",
+        "owner": "A",
+        "reason": "缺少本届、目标范围的证据，需要补查具体赛事通知。",
+        "scope": "campus:黑龙江大学",
+        "evidence_ids": [],
+        "source_urls": [],
+        "candidate_evidence_refs": []
+      },
+      {
+        "field": "registration_method",
+        "label": "报名方式",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:黑龙江大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ],
+        "candidate_evidence_refs": [
+          "hlju-2026-registration_method-1"
+        ]
+      },
+      {
+        "field": "registration_url",
+        "label": "官方报名入口",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:黑龙江大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ],
+        "candidate_evidence_refs": [
+          "hlju-2026-registration_url-1"
+        ]
+      },
+      {
+        "field": "registration_materials",
+        "label": "报名材料",
+        "action": "human_review",
+        "action_label": "人工审查证据",
+        "owner": "B",
+        "reason": "来源已有原文，但保守规则无法确认含义；交给 B 审查，保持待确认。",
+        "scope": "campus:黑龙江大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ],
+        "candidate_evidence_refs": [
+          "hlju-2026-registration_materials-1"
+        ]
+      },
+      {
+        "field": "institutional_requirements",
+        "label": "学校及教师手续",
+        "action": "repair_extraction",
+        "action_label": "修正抽取结果",
+        "owner": "C",
+        "reason": "已有资料，但摘录不完整、与原文不一致或遗漏限制；C 应依据同一页面重新抽取。",
+        "scope": "campus:黑龙江大学",
+        "evidence_ids": [],
+        "source_urls": [
+          "https://math.hlju.edu.cn/info/1009/2406.htm"
+        ],
+        "candidate_evidence_refs": [
+          "hlju-2026-institutional_requirements-1"
+        ]
+      }
+    ]
+  },
+  "requests": [
+    {
+      "action": "search",
+      "competition_id": "curated-hlju-mcm-2026-campus",
+      "contest_name": "全国大学生数学建模竞赛",
+      "edition": "2026",
+      "target_fields": [
+        "track"
+      ],
+      "scope": "campus:黑龙江大学",
+      "query": "全国大学生数学建模竞赛 2026 campus:黑龙江大学 赛道 组别 官方章程",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    },
+    {
+      "action": "search",
+      "competition_id": "curated-hlju-mcm-2026-campus",
+      "contest_name": "全国大学生数学建模竞赛",
+      "edition": "2026",
+      "target_fields": [
+        "organizer"
+      ],
+      "scope": "global",
+      "query": "全国大学生数学建模竞赛 2026 主办单位 官方通知",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    },
+    {
+      "action": "search",
+      "competition_id": "curated-hlju-mcm-2026-campus",
+      "contest_name": "全国大学生数学建模竞赛",
+      "edition": "2026",
+      "target_fields": [
+        "registration_deadline"
+      ],
+      "scope": "global",
+      "query": "全国大学生数学建模竞赛 2026 报名截止日期 报名时间 官方通知",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    },
+    {
+      "action": "search",
+      "competition_id": "curated-hlju-mcm-2026-campus",
+      "contest_name": "全国大学生数学建模竞赛",
+      "edition": "2026",
+      "target_fields": [
+        "task_description"
+      ],
+      "scope": "campus:黑龙江大学",
+      "query": "全国大学生数学建模竞赛 2026 campus:黑龙江大学 竞赛任务 赛题 要求",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    },
+    {
+      "action": "search",
+      "competition_id": "curated-hlju-mcm-2026-campus",
+      "contest_name": "全国大学生数学建模竞赛",
+      "edition": "2026",
+      "target_fields": [
+        "venue"
+      ],
+      "scope": "campus:黑龙江大学",
+      "query": "全国大学生数学建模竞赛 2026 campus:黑龙江大学 比赛地点 决赛城市 到场",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    },
+    {
+      "action": "search",
+      "competition_id": "curated-hlju-mcm-2026-campus",
+      "contest_name": "全国大学生数学建模竞赛",
+      "edition": "2026",
+      "target_fields": [
+        "mandatory_fees"
+      ],
+      "scope": "campus:黑龙江大学",
+      "query": "全国大学生数学建模竞赛 2026 campus:黑龙江大学 复赛 决赛 必缴 费用 收费",
+      "reason": "基础必须项; missing_value; missing_evidence",
+      "round": 1
+    }
+  ],
+  "source_reviews": [
+    {
+      "evidence_id": "hlju-2026-competition_name-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "hlju-2026-competition_edition-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "hlju-2026-official_url-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "hlju-2026-eligibility-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_eligibility_sentence"
+      ]
+    },
+    {
+      "evidence_id": "hlju-2026-participation_mode-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "hlju-2026-team_rules-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "hlju-2026-registration_start-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "hlju-2026-campus_deadline-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "hlju-2026-deliverables-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "hlju-2026-submission_deadline-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "hlju-2026-attendance_mode-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "hlju-2026-registration_fee-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "hlju-2026-registration_method-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "hlju-2026-registration_url-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_registration_url_sentence"
+      ]
+    },
+    {
+      "evidence_id": "hlju-2026-registration_materials-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "hlju-2026-institutional_requirements-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "quote_not_complete_paragraph"
+      ]
+    },
+    {
+      "evidence_id": "hlju-2026-schedule-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "hlju-2026-work_rules-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "hlju-2026-work_rules-2",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "hlju-2026-preparation_resources-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "hlju-2026-preparation_resources-2",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "hlju-2026-expense_details-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "hlju-2026-expense_details-2",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "hlju-2026-contacts-1",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    },
+    {
+      "evidence_id": "hlju-2026-contacts-2",
+      "source_verified": true,
+      "support": "unknown",
+      "reasons": [
+        "unsupported_field_sentence"
+      ]
+    }
+  ]
+}
